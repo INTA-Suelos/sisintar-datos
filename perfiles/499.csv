@@ -1,0 +1,55 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"1914","28.8","18.4","21.9","5.0","5.4","4.8","1615.0","12.7","3.1","2.3","0.3","25.8","1.98","0.224","24.3","55.8","17.9","0.5","0.0","0.0","0.0","","","0.0","","","","4.2","84.0","","","0-25","","9.0","","","","","10YR 3/1","","","","friable","ligeramente adhesivo","ligeramente plástico","granular","finos","débil","Lombrices +++","Ap","","1082","abrupto","suave","","499","11/644 C","","","","no modal","1966-08-19","Campo arado","B2: Estructura rompe a bloques angulares finos, medios. Presenta chorreaduras de MO.
+
+El Ing. Talledo realizó pruebas de permeabilidad del B2: 36-74 cm
+   Vert. (cm/h) 0.40, grado 2, lenta.
+   Horiz. (cm/h) 0.36, grado 2, lenta.
+
+En los datos analíticos el Ap y A1 aparecen juntos.
+
+Familia Franca fina, mixta, térmica (en el límite con feldespática)","true","","","Ea. La Delia, de Enrique Morea e hijos. A 6 km de Est. Guido Spano, al NNE del mosaico.","367","3560-2-4","101","-34.180696","-60.619426","Pampa ondulada","","11 - 1 - N/S","fresco","uniforme","nula","","","grado 0","Rojas","Ro","","Buenos Aires","","Brunizem","","","clase 0","agrícola","normal","moderada","medio","0 - 1%","clase 5","","loma","6.0","18","0","3","franco"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","10YR 2/1","","","","friable","ligeramente adhesivo","ligeramente plástico","granular","finos","débil","Lombrices ++","A1","","1083","claro","suave","","499","11/644 C","","","","no modal","1966-08-19","Campo arado","B2: Estructura rompe a bloques angulares finos, medios. Presenta chorreaduras de MO.
+
+El Ing. Talledo realizó pruebas de permeabilidad del B2: 36-74 cm
+   Vert. (cm/h) 0.40, grado 2, lenta.
+   Horiz. (cm/h) 0.36, grado 2, lenta.
+
+En los datos analíticos el Ap y A1 aparecen juntos.
+
+Familia Franca fina, mixta, térmica (en el límite con feldespática)","true","","","Ea. La Delia, de Enrique Morea e hijos. A 6 km de Est. Guido Spano, al NNE del mosaico.","367","3560-2-4","101","-34.180696","-60.619426","Pampa ondulada","","11 - 1 - N/S","fresco","uniforme","nula","","","grado 0","Rojas","Ro","","Buenos Aires","","Brunizem","","","clase 0","agrícola","normal","moderada","medio","0 - 1%","clase 5","","loma","6.0","25","18","1","franco"
+"1915","28.9","16.8","20.5","5.5","6.1","4.9","3184.0","12.0","2.9","1.5","0.4","31.0","0.98","0.11","19.0","51.8","17.0","0.2","0.0","0.0","0.0","","","0.0","","","","3.2","82.0","","","25-36","","9.0","","","","","10YR 3/2","","","","friable","ligeramente adhesivo","ligeramente plástico","bloques subangulares","medios","moderado","Color: Con tendencia a 10YR 3/3. Lombrices +","B1","","1084","claro","suave","","499","11/644 C","","","","no modal","1966-08-19","Campo arado","B2: Estructura rompe a bloques angulares finos, medios. Presenta chorreaduras de MO.
+
+El Ing. Talledo realizó pruebas de permeabilidad del B2: 36-74 cm
+   Vert. (cm/h) 0.40, grado 2, lenta.
+   Horiz. (cm/h) 0.36, grado 2, lenta.
+
+En los datos analíticos el Ap y A1 aparecen juntos.
+
+Familia Franca fina, mixta, térmica (en el límite con feldespática)","true","","","Ea. La Delia, de Enrique Morea e hijos. A 6 km de Est. Guido Spano, al NNE del mosaico.","367","3560-2-4","101","-34.180696","-60.619426","Pampa ondulada","","11 - 1 - N/S","fresco","uniforme","nula","","","grado 0","Rojas","Ro","","Buenos Aires","","Brunizem","","","clase 0","agrícola","normal","moderada","medio","0 - 1%","clase 5","","loma","6.0","36","25","1","franco arcilloso"
+"1916","35.4","24.4","26.7","5.7","6.5","4.9","2756.0","17.7","4.7","1.6","0.4","40.5","0.66","0.088","16.0","44.5","14.6","0.4","0.0","0.0","0.0","","","0.0","","","","3.2","91.0","","","36-74","","7.0","","","Clsk +++ (7.5YR 3/2)","","7.5YR 4/2","","","","friable","adhesivo","plástico","prismas","medios","moderado","Lombrices muy escasas; chorreaduras de mat. orgánica","B2","","1085","gradual","suave","","499","11/644 C","","","","no modal","1966-08-19","Campo arado","B2: Estructura rompe a bloques angulares finos, medios. Presenta chorreaduras de MO.
+
+El Ing. Talledo realizó pruebas de permeabilidad del B2: 36-74 cm
+   Vert. (cm/h) 0.40, grado 2, lenta.
+   Horiz. (cm/h) 0.36, grado 2, lenta.
+
+En los datos analíticos el Ap y A1 aparecen juntos.
+
+Familia Franca fina, mixta, térmica (en el límite con feldespática)","true","","","Ea. La Delia, de Enrique Morea e hijos. A 6 km de Est. Guido Spano, al NNE del mosaico.","367","3560-2-4","101","-34.180696","-60.619426","Pampa ondulada","","11 - 1 - N/S","fresco","uniforme","nula","","","grado 0","Rojas","Ro","","Buenos Aires","","Brunizem","","","clase 0","agrícola","normal","moderada","medio","0 - 1%","clase 5","","loma","6.5","74","36","vest.","arcilloso"
+"1917","26.9","20.1","20.8","5.7","6.8","4.8","3564.0","13.6","4.7","1.4","0.4","15.5","0.23","0.041","26.0","61.0","22.7","0.8","0.0","0.0","0.0","","","0.0","","","","2.1","97.0","","","74-110","","6.0","","","Clsk +","","7.5YR 5/4","","","","friable","ligeramente adhesivo","ligeramente plástico","bloques subangulares","medios","fuerte","","B3","","1086","claro","suave","","499","11/644 C","","","","no modal","1966-08-19","Campo arado","B2: Estructura rompe a bloques angulares finos, medios. Presenta chorreaduras de MO.
+
+El Ing. Talledo realizó pruebas de permeabilidad del B2: 36-74 cm
+   Vert. (cm/h) 0.40, grado 2, lenta.
+   Horiz. (cm/h) 0.36, grado 2, lenta.
+
+En los datos analíticos el Ap y A1 aparecen juntos.
+
+Familia Franca fina, mixta, térmica (en el límite con feldespática)","true","","","Ea. La Delia, de Enrique Morea e hijos. A 6 km de Est. Guido Spano, al NNE del mosaico.","367","3560-2-4","101","-34.180696","-60.619426","Pampa ondulada","","11 - 1 - N/S","fresco","uniforme","nula","","","grado 0","Rojas","Ro","","Buenos Aires","","Brunizem","","","clase 0","agrícola","normal","moderada","medio","0 - 1%","clase 5","","loma","6.5","110","74","","franco"
+"1918","23.2","18.0","19.5","6.0","7.0","5.0","4087.0","12.0","3.8","1.8","0.4","11.8","0.12","0.025","24.7","58.1","28.1","2.0","0.0","0.0","0.0","","","0.0","","","","2.6","92.0","","","110+","","5.0","","","","","7.5YR 5/4","","","","friable","","","grano suelto","","","","C","","1087","","","","499","11/644 C","","","","no modal","1966-08-19","Campo arado","B2: Estructura rompe a bloques angulares finos, medios. Presenta chorreaduras de MO.
+
+El Ing. Talledo realizó pruebas de permeabilidad del B2: 36-74 cm
+   Vert. (cm/h) 0.40, grado 2, lenta.
+   Horiz. (cm/h) 0.36, grado 2, lenta.
+
+En los datos analíticos el Ap y A1 aparecen juntos.
+
+Familia Franca fina, mixta, térmica (en el límite con feldespática)","true","","","Ea. La Delia, de Enrique Morea e hijos. A 6 km de Est. Guido Spano, al NNE del mosaico.","367","3560-2-4","101","-34.180696","-60.619426","Pampa ondulada","","11 - 1 - N/S","fresco","uniforme","nula","","","grado 0","Rojas","Ro","","Buenos Aires","","Brunizem","","","clase 0","agrícola","normal","moderada","medio","0 - 1%","clase 5","","loma","6.5","125","110","","franco"

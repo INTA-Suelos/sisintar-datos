@@ -1,0 +1,37 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"18849","15.5","","","4.2","","","","","","","","13.85","2.91","0.17","","12.35","25.9","19.6","14.5","7.55","1.25","","","0.0","","","","","","","","","","","","","","","10 YR 3/2","10 YR 4/1.5","","suelto","muy friable","no adhesivo","no plástico","granular","","","","A11","","17619","abrupto","","","3895","605/42","","90.0","Aluviones conglomerados y arenosos de origen fliavio-glacial","no modal","1959-02-28","Coirón. En las cercanías montes de ñire","Drenaje: bueno
+Pedreg: superf casi nula
+Aspecto: muy suavem ondulado
+Raíces: abundantes hasta los 25cm
+Erosión: natural
+Permeab: buena
+Suelo desnudo: 10%
+Ripiera al costado del camino.
+Puente Blanco: en la confluencia de los Ríos Penitentes y Rubens (poco mas aguas abajo que la confluencia)
+Hz.A11: turboso pero con raicillas bastante descompuestas, rodados de hasta 5cm (5%)
+Hz.A12: 10-15% de rodaditos, menos raíces
+Hz.C+D: color: piedritas de todos los colores en la zona del 10YR 4/2- Conglomerado de rodaditos con algo de mat.meteorizado, con aspecto de arena gruesa. Algunas raíces. Siguen camadas de rodados y capas de arena fluviales algo torrencial","true","","","Km 158 ruta 293 entre El Zurdo y Puente Blanco","","","","-51.891436","-70.287796","Llanura fluvio-glacial algo deprimida con bloques erráticos","Convexo plano","","","","","","","","Perfil n° 605/42","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","5.8","20","0","","areno franco"
+"18850","9.15","","","5.0","","","","","","","","5.6","0.97","0.06","","5.1","19.65","30.3","24.5","8.0","5.2","","","0.0","","","","","","","","","","","","","","","10 YR 3/3","10 YR 4/2","","","muy friable","no adhesivo","plástico","granular","","","","A12","","17620","abrupto","","","3895","605/42","","90.0","Aluviones conglomerados y arenosos de origen fliavio-glacial","no modal","1959-02-28","Coirón. En las cercanías montes de ñire","Drenaje: bueno
+Pedreg: superf casi nula
+Aspecto: muy suavem ondulado
+Raíces: abundantes hasta los 25cm
+Erosión: natural
+Permeab: buena
+Suelo desnudo: 10%
+Ripiera al costado del camino.
+Puente Blanco: en la confluencia de los Ríos Penitentes y Rubens (poco mas aguas abajo que la confluencia)
+Hz.A11: turboso pero con raicillas bastante descompuestas, rodados de hasta 5cm (5%)
+Hz.A12: 10-15% de rodaditos, menos raíces
+Hz.C+D: color: piedritas de todos los colores en la zona del 10YR 4/2- Conglomerado de rodaditos con algo de mat.meteorizado, con aspecto de arena gruesa. Algunas raíces. Siguen camadas de rodados y capas de arena fluviales algo torrencial","true","","","Km 158 ruta 293 entre El Zurdo y Puente Blanco","","","","-51.891436","-70.287796","Llanura fluvio-glacial algo deprimida con bloques erráticos","Convexo plano","","","","","","","","Perfil n° 605/42","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","6.4","50","20","","arenoso"
+"18851","9.1","","","5.5","","","","","","","","7.1","0.24","","","2.05","3.0","14.5","22.0","28.1","22.85","","","0.0","","","","","","","","","","","","","","","","","","","","","","","","","","C+D","","17621","","","","3895","605/42","","90.0","Aluviones conglomerados y arenosos de origen fliavio-glacial","no modal","1959-02-28","Coirón. En las cercanías montes de ñire","Drenaje: bueno
+Pedreg: superf casi nula
+Aspecto: muy suavem ondulado
+Raíces: abundantes hasta los 25cm
+Erosión: natural
+Permeab: buena
+Suelo desnudo: 10%
+Ripiera al costado del camino.
+Puente Blanco: en la confluencia de los Ríos Penitentes y Rubens (poco mas aguas abajo que la confluencia)
+Hz.A11: turboso pero con raicillas bastante descompuestas, rodados de hasta 5cm (5%)
+Hz.A12: 10-15% de rodaditos, menos raíces
+Hz.C+D: color: piedritas de todos los colores en la zona del 10YR 4/2- Conglomerado de rodaditos con algo de mat.meteorizado, con aspecto de arena gruesa. Algunas raíces. Siguen camadas de rodados y capas de arena fluviales algo torrencial","true","","","Km 158 ruta 293 entre El Zurdo y Puente Blanco","","","","-51.891436","-70.287796","Llanura fluvio-glacial algo deprimida con bloques erráticos","Convexo plano","","","","","","","","Perfil n° 605/42","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","6.6","70","50","",""

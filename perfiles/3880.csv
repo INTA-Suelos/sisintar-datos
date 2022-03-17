@@ -1,0 +1,41 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"18758","21.7","","","8.7","","","","","","","","24.25","0.22","0.02","","22.95","18.55","16.9","9.05","4.75","3.2","","","","","","8.8","","","","","0-2","","","","","","","7.5 YR 5/4","7.5 YR 6/2","","","friable","ligeramente adhesivo","plástico","","","","","Av","","17541","claro","","","3880","605/12","","","Conglomerados coluviales de basaltos algo calcáreos","no modal","1959-02-10","matas bajas en un 20% cubriendo el suelo, romerillo","Drenaje: bueno
+Pedregosidad: 90%, de hasta 2cm
+Aspecto: suavemente ondulado
+Raíces: escasas, hasta los 10cm
+Permeabilidad: buena
+""Estamos en el contacto con el cretácico continental, a mil metros cerros basálticos""
+Hz.Av: con pavimento desértico, incluye gravillas y gravas
+Hz.A1: Con muchas raíces
+Hz.Bt: clay skins, con rodados blandos, raicillas, etc
+Hz.C: con partes blancas en manchas. Roca disgregable por meteorizacion, rodados incluídos hasta un 90%, tiene Mn, hacia abajo menos friable","true","","","Km 1727 ruta 25, entre Las Plumas y El Sombrero (A 58km de Las Plumas) ","","","","-43.770458","-67.893256","terraza rodeada de cercos basálticos con tehuelche enganchado con basaltos angulosos","plano cóncavo","","seco fresco","","","","","","Perfil n° 605/12","","","Chubut","","","","","","","","","","1 - 3%","","","","8.2","2","0","","franco arcillo arenoso"
+"18759","34.2","","","8.3","","","","","","","","42.5","0.44","0.02","","11.25","13.6","14.15","8.65","3.9","1.1","","","4.1","","","8.7","","","","","2-7","","","","","","","2.5 YR 4/4","2.5 YR 5/4","","","muy friable","adhesivo","plástico","granular","finos","","","A1","","17542","claro","","","3880","605/12","","","Conglomerados coluviales de basaltos algo calcáreos","no modal","1959-02-10","matas bajas en un 20% cubriendo el suelo, romerillo","Drenaje: bueno
+Pedregosidad: 90%, de hasta 2cm
+Aspecto: suavemente ondulado
+Raíces: escasas, hasta los 10cm
+Permeabilidad: buena
+""Estamos en el contacto con el cretácico continental, a mil metros cerros basálticos""
+Hz.Av: con pavimento desértico, incluye gravillas y gravas
+Hz.A1: Con muchas raíces
+Hz.Bt: clay skins, con rodados blandos, raicillas, etc
+Hz.C: con partes blancas en manchas. Roca disgregable por meteorizacion, rodados incluídos hasta un 90%, tiene Mn, hacia abajo menos friable","true","","","Km 1727 ruta 25, entre Las Plumas y El Sombrero (A 58km de Las Plumas) ","","","","-43.770458","-67.893256","terraza rodeada de cercos basálticos con tehuelche enganchado con basaltos angulosos","plano cóncavo","","seco fresco","","","","","","Perfil n° 605/12","","","Chubut","","","","","","","","","","1 - 3%","","","","8.6","7","2","","arcillo arenoso"
+"18760","36.2","","","8.1","","","","","","","","44.8","0.61","0.01","","11.15","11.4","10.4","7.5","4.05","1.25","","","8.7","","","8.3","","","","","7-18","","","","","","","2.5 YR 4/4","2.5 YR 4/4","","","friable","adhesivo","plástico","bloques angulares","medios","moderado","","Bt","","17543","abrupto","","","3880","605/12","","","Conglomerados coluviales de basaltos algo calcáreos","no modal","1959-02-10","matas bajas en un 20% cubriendo el suelo, romerillo","Drenaje: bueno
+Pedregosidad: 90%, de hasta 2cm
+Aspecto: suavemente ondulado
+Raíces: escasas, hasta los 10cm
+Permeabilidad: buena
+""Estamos en el contacto con el cretácico continental, a mil metros cerros basálticos""
+Hz.Av: con pavimento desértico, incluye gravillas y gravas
+Hz.A1: Con muchas raíces
+Hz.Bt: clay skins, con rodados blandos, raicillas, etc
+Hz.C: con partes blancas en manchas. Roca disgregable por meteorizacion, rodados incluídos hasta un 90%, tiene Mn, hacia abajo menos friable","true","","","Km 1727 ruta 25, entre Las Plumas y El Sombrero (A 58km de Las Plumas) ","","","","-43.770458","-67.893256","terraza rodeada de cercos basálticos con tehuelche enganchado con basaltos angulosos","plano cóncavo","","seco fresco","","","","","","Perfil n° 605/12","","","Chubut","","","","","","","","","","1 - 3%","","","","8.2","18","7","","arcilloso"
+"1876","29.1","","","8.5","","","","","","","","27.05","","","","9.65","8.7","17.0","13.75","9.8","4.45","","","","","","","","","","","18-30","","","","","","","","5 YR 5/4","","","firme","","plástico","","","","","C","","17544","abrupto","","","3880","605/12","","","Conglomerados coluviales de basaltos algo calcáreos","no modal","1959-02-10","matas bajas en un 20% cubriendo el suelo, romerillo","Drenaje: bueno
+Pedregosidad: 90%, de hasta 2cm
+Aspecto: suavemente ondulado
+Raíces: escasas, hasta los 10cm
+Permeabilidad: buena
+""Estamos en el contacto con el cretácico continental, a mil metros cerros basálticos""
+Hz.Av: con pavimento desértico, incluye gravillas y gravas
+Hz.A1: Con muchas raíces
+Hz.Bt: clay skins, con rodados blandos, raicillas, etc
+Hz.C: con partes blancas en manchas. Roca disgregable por meteorizacion, rodados incluídos hasta un 90%, tiene Mn, hacia abajo menos friable","true","","","Km 1727 ruta 25, entre Las Plumas y El Sombrero (A 58km de Las Plumas) ","","","","-43.770458","-67.893256","terraza rodeada de cercos basálticos con tehuelche enganchado con basaltos angulosos","plano cóncavo","","seco fresco","","","","","","Perfil n° 605/12","","","Chubut","","","","","","","","","","1 - 3%","","","","8.8","28","18","","franco arcillo arenoso"

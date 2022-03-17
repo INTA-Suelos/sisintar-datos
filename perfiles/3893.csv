@@ -1,0 +1,49 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"18840","","","","5.6","","","","","","","","","2.34","0.08","","","","","","","","","","0.0","","","","","","","","0-12","","","","","","","10 YR 3/2","10 YR 3/3","","suelto","","no adhesivo","ligeramente plástico","","","","","A11","","17610","claro","","","3893","605/40","","50.0","Outwash aluviones fluviales y rodados (del últ. post glacial)","no modal","1959-02-27","Coirón exclusivamente","Drenaje: bueno
+Pedreg: superficial 25% gravillas
+Aspecto: muy suavem. ondulado
+Raíces: abundantes hasta los 30cm (maraña tuberiforme en los 1ros 10cm)
+Erosión: también hídrica
+Permeab: buena
+Suelo desnudo: 30% mantillo 5%
+Campo bien compactado, pocito en corte ripiera al lado del cruce camino y F.C
+Hz.A11: mara{a de raíces (aspecto turba) pocos rodados 10-20% gravillas
+Hz.A12: rodados 80-90% hasta 5cm, muchas raíces
+Hz.A13: mas de 90% rodados de hasta 12cm, menos raíces
+Hz.C+D: parte cementante de los rodados, material no alterado y alterado compactado. Algunos infliltr. de material que hace sospechar que es un B (1-2% del volumen) pero muy denso (recubre los rodados como películas de arcillas)","true","","","a 64km al W de Río Gallegos (km 35 ruta 293 entre Río Gallegos y Estancia Paso del Medio)","","","","-51.75","-70.0","Terraza intermedia del Río Gallegos  (pampa cerca de faldeos morrénicos)","Plano","","seco fresco","","moderada","eólica","","","Perfil n° 605/40","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","6.4","12","0","","areno franco"
+"18841","","","","6.6","","","","","","","","","1.1","0.07","","","","","","","","","","0.0","","","","","","","","12-34","","","","","","","10 YR 3/3","10 YR 4/2","","suelto","","no adhesivo","ligeramente plástico","grano suelto","","","","A12","","17611","difuso","","","3893","605/40","","50.0","Outwash aluviones fluviales y rodados (del últ. post glacial)","no modal","1959-02-27","Coirón exclusivamente","Drenaje: bueno
+Pedreg: superficial 25% gravillas
+Aspecto: muy suavem. ondulado
+Raíces: abundantes hasta los 30cm (maraña tuberiforme en los 1ros 10cm)
+Erosión: también hídrica
+Permeab: buena
+Suelo desnudo: 30% mantillo 5%
+Campo bien compactado, pocito en corte ripiera al lado del cruce camino y F.C
+Hz.A11: mara{a de raíces (aspecto turba) pocos rodados 10-20% gravillas
+Hz.A12: rodados 80-90% hasta 5cm, muchas raíces
+Hz.A13: mas de 90% rodados de hasta 12cm, menos raíces
+Hz.C+D: parte cementante de los rodados, material no alterado y alterado compactado. Algunos infliltr. de material que hace sospechar que es un B (1-2% del volumen) pero muy denso (recubre los rodados como películas de arcillas)","true","","","a 64km al W de Río Gallegos (km 35 ruta 293 entre Río Gallegos y Estancia Paso del Medio)","","","","-51.75","-70.0","Terraza intermedia del Río Gallegos  (pampa cerca de faldeos morrénicos)","Plano","","seco fresco","","moderada","eólica","","","Perfil n° 605/40","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","6.6","34","12","","franco"
+"18842","","","","7.0","","","","","","","","","","","","","","","","","","","","0.0","","","","","","","","34-63","","","","","","","10 YR 3/3","10 YR 3/4","","suelto","","no adhesivo","ligeramente plástico","","","","","A13","","17612","gradual","","","3893","605/40","","50.0","Outwash aluviones fluviales y rodados (del últ. post glacial)","no modal","1959-02-27","Coirón exclusivamente","Drenaje: bueno
+Pedreg: superficial 25% gravillas
+Aspecto: muy suavem. ondulado
+Raíces: abundantes hasta los 30cm (maraña tuberiforme en los 1ros 10cm)
+Erosión: también hídrica
+Permeab: buena
+Suelo desnudo: 30% mantillo 5%
+Campo bien compactado, pocito en corte ripiera al lado del cruce camino y F.C
+Hz.A11: mara{a de raíces (aspecto turba) pocos rodados 10-20% gravillas
+Hz.A12: rodados 80-90% hasta 5cm, muchas raíces
+Hz.A13: mas de 90% rodados de hasta 12cm, menos raíces
+Hz.C+D: parte cementante de los rodados, material no alterado y alterado compactado. Algunos infliltr. de material que hace sospechar que es un B (1-2% del volumen) pero muy denso (recubre los rodados como películas de arcillas)","true","","","a 64km al W de Río Gallegos (km 35 ruta 293 entre Río Gallegos y Estancia Paso del Medio)","","","","-51.75","-70.0","Terraza intermedia del Río Gallegos  (pampa cerca de faldeos morrénicos)","Plano","","seco fresco","","moderada","eólica","","","Perfil n° 605/40","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","6.6","63","34","","areno franco"
+"18843","","","","","","","","","","","","","","","","","","","","","","","","0.0","","","","","","","","63-73","","","","","","","10 YR 5/3","10 YR 4/4","","blando","suelto","adhesivo","plástico","masiva","","","","C+D","","17613","","","","3893","605/40","","50.0","Outwash aluviones fluviales y rodados (del últ. post glacial)","no modal","1959-02-27","Coirón exclusivamente","Drenaje: bueno
+Pedreg: superficial 25% gravillas
+Aspecto: muy suavem. ondulado
+Raíces: abundantes hasta los 30cm (maraña tuberiforme en los 1ros 10cm)
+Erosión: también hídrica
+Permeab: buena
+Suelo desnudo: 30% mantillo 5%
+Campo bien compactado, pocito en corte ripiera al lado del cruce camino y F.C
+Hz.A11: mara{a de raíces (aspecto turba) pocos rodados 10-20% gravillas
+Hz.A12: rodados 80-90% hasta 5cm, muchas raíces
+Hz.A13: mas de 90% rodados de hasta 12cm, menos raíces
+Hz.C+D: parte cementante de los rodados, material no alterado y alterado compactado. Algunos infliltr. de material que hace sospechar que es un B (1-2% del volumen) pero muy denso (recubre los rodados como películas de arcillas)","true","","","a 64km al W de Río Gallegos (km 35 ruta 293 entre Río Gallegos y Estancia Paso del Medio)","","","","-51.75","-70.0","Terraza intermedia del Río Gallegos  (pampa cerca de faldeos morrénicos)","Plano","","seco fresco","","moderada","eólica","","","Perfil n° 605/40","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","6.6","73","63","","franco arcilloso"

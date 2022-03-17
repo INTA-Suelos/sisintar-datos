@@ -1,0 +1,127 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","Aoo","","17187","","","","3813","605/17","","","Sedimentos morrénicos y cenizas volvánicas en su base","no modal","1959-02-11","Bosque alto de lenga (de hasta 25m) y sotobosque de gramíneas tupido y hierbas (trébol, frutilla silvestre, cebadilla criolla, muérdago,","Drenaje: bueno
+Pedregosidad: no se observa en superficie
+Aspecto: ondulado
+Permeabilidad: buena
+
+Hz.Aoo: prof de -7 a -4cm. Restos de latifoliados levemente descompuestos y restos de incendios. HCl:0
+Hz.Ao: prof de -4 a 0cm. Humus mulch. Suelo muy liviano, HCl:0 H2O2:0
+Hz.A1h: sin estructura con tendencia a granular, HCl:0 H2O2:+++. Gran cantidad de raicillas livianas vivas y muertas (se infiltra en el de abajo).
+Hz.A2: sin estructira a granular débil  HCl:0 H2O2:0
+Hz.A3: sin estructura con tendencia a compactarse HCl:0 H2O2:0, menos raíces
+Hz.Bpodzol: HCl:0 H2O2:0. Con manchas de materia orgánica y rojas (sesquióxidos); parece que tiene clay skins y mat. no meteorizado
+Hz.B3sesq.g: HCl:0 H2O2:vest
+Hz.B3sesq.(gleizado): HCl:0 H2O2:vest. Con chorreado de limonita en toda la masa y veteado rojizo; con algo de arena gruesa
+Hz.C-D: HCl:0 H2O2:0. Bochas y cascajos de hasta 15cm con rodados de la morena","true","","","20 km al W del río Pico, cerca del lago Pico n°1","","","","-44.233333","-71.266667","l","Inclinado convexo","","fresco húmedo","","","hídrica","","","Perfil n° 605/17","","","Chubut","","","","","","","","","","3 - 10%","","","","","0","0","",""
+"18763","","","","","","","","","","","","","6.68","0.05","","","","","","","","","","0.0","","","","","","","","-4-0","","","","","","","","","","","","","","","","","","Ao","","17188","","","","3813","605/17","","","Sedimentos morrénicos y cenizas volvánicas en su base","no modal","1959-02-11","Bosque alto de lenga (de hasta 25m) y sotobosque de gramíneas tupido y hierbas (trébol, frutilla silvestre, cebadilla criolla, muérdago,","Drenaje: bueno
+Pedregosidad: no se observa en superficie
+Aspecto: ondulado
+Permeabilidad: buena
+
+Hz.Aoo: prof de -7 a -4cm. Restos de latifoliados levemente descompuestos y restos de incendios. HCl:0
+Hz.Ao: prof de -4 a 0cm. Humus mulch. Suelo muy liviano, HCl:0 H2O2:0
+Hz.A1h: sin estructura con tendencia a granular, HCl:0 H2O2:+++. Gran cantidad de raicillas livianas vivas y muertas (se infiltra en el de abajo).
+Hz.A2: sin estructira a granular débil  HCl:0 H2O2:0
+Hz.A3: sin estructura con tendencia a compactarse HCl:0 H2O2:0, menos raíces
+Hz.Bpodzol: HCl:0 H2O2:0. Con manchas de materia orgánica y rojas (sesquióxidos); parece que tiene clay skins y mat. no meteorizado
+Hz.B3sesq.g: HCl:0 H2O2:vest
+Hz.B3sesq.(gleizado): HCl:0 H2O2:vest. Con chorreado de limonita en toda la masa y veteado rojizo; con algo de arena gruesa
+Hz.C-D: HCl:0 H2O2:0. Bochas y cascajos de hasta 15cm con rodados de la morena","true","","","20 km al W del río Pico, cerca del lago Pico n°1","","","","-44.233333","-71.266667","l","Inclinado convexo","","fresco húmedo","","","hídrica","","","Perfil n° 605/17","","","Chubut","","","","","","","","","","3 - 10%","","","","6.4","0","0","",""
+"18764","26.2","30.9","21.8","5.2","","","","20.3","9.7","0.6","0.3","13.05","6.71","0.27","","15.7","17.95","14.95","13.35","4.85","0.9","","","0.0","","","","20.9","","","","0-14","","","","","","","7.5YR 4/2","","","suelto","","","plástico","granular","","débil","","A1h","","17189","claro","irregular","","3813","605/17","","","Sedimentos morrénicos y cenizas volvánicas en su base","no modal","1959-02-11","Bosque alto de lenga (de hasta 25m) y sotobosque de gramíneas tupido y hierbas (trébol, frutilla silvestre, cebadilla criolla, muérdago,","Drenaje: bueno
+Pedregosidad: no se observa en superficie
+Aspecto: ondulado
+Permeabilidad: buena
+
+Hz.Aoo: prof de -7 a -4cm. Restos de latifoliados levemente descompuestos y restos de incendios. HCl:0
+Hz.Ao: prof de -4 a 0cm. Humus mulch. Suelo muy liviano, HCl:0 H2O2:0
+Hz.A1h: sin estructura con tendencia a granular, HCl:0 H2O2:+++. Gran cantidad de raicillas livianas vivas y muertas (se infiltra en el de abajo).
+Hz.A2: sin estructira a granular débil  HCl:0 H2O2:0
+Hz.A3: sin estructura con tendencia a compactarse HCl:0 H2O2:0, menos raíces
+Hz.Bpodzol: HCl:0 H2O2:0. Con manchas de materia orgánica y rojas (sesquióxidos); parece que tiene clay skins y mat. no meteorizado
+Hz.B3sesq.g: HCl:0 H2O2:vest
+Hz.B3sesq.(gleizado): HCl:0 H2O2:vest. Con chorreado de limonita en toda la masa y veteado rojizo; con algo de arena gruesa
+Hz.C-D: HCl:0 H2O2:0. Bochas y cascajos de hasta 15cm con rodados de la morena","true","","","20 km al W del río Pico, cerca del lago Pico n°1","","","","-44.233333","-71.266667","l","Inclinado convexo","","fresco húmedo","","","hídrica","","","Perfil n° 605/17","","","Chubut","","","","","","","","","","3 - 10%","","","","5.6","14","0","","franco"
+"18765","28.75","25.5","39.2","5.4","","","","15.4","8.9","0.4","0.8","12.45","2.55","0.14","","20.05","21.7","15.2","15.65","5.65","0.95","","","0.0","","","","13.7","","","","14-33","","","","","","","7.5YR 4/4","","","suelto","","adhesivo","ligeramente plástico","","","","","A2","","17190","gradual","irregular","","3813","605/17","","","Sedimentos morrénicos y cenizas volvánicas en su base","no modal","1959-02-11","Bosque alto de lenga (de hasta 25m) y sotobosque de gramíneas tupido y hierbas (trébol, frutilla silvestre, cebadilla criolla, muérdago,","Drenaje: bueno
+Pedregosidad: no se observa en superficie
+Aspecto: ondulado
+Permeabilidad: buena
+
+Hz.Aoo: prof de -7 a -4cm. Restos de latifoliados levemente descompuestos y restos de incendios. HCl:0
+Hz.Ao: prof de -4 a 0cm. Humus mulch. Suelo muy liviano, HCl:0 H2O2:0
+Hz.A1h: sin estructura con tendencia a granular, HCl:0 H2O2:+++. Gran cantidad de raicillas livianas vivas y muertas (se infiltra en el de abajo).
+Hz.A2: sin estructira a granular débil  HCl:0 H2O2:0
+Hz.A3: sin estructura con tendencia a compactarse HCl:0 H2O2:0, menos raíces
+Hz.Bpodzol: HCl:0 H2O2:0. Con manchas de materia orgánica y rojas (sesquióxidos); parece que tiene clay skins y mat. no meteorizado
+Hz.B3sesq.g: HCl:0 H2O2:vest
+Hz.B3sesq.(gleizado): HCl:0 H2O2:vest. Con chorreado de limonita en toda la masa y veteado rojizo; con algo de arena gruesa
+Hz.C-D: HCl:0 H2O2:0. Bochas y cascajos de hasta 15cm con rodados de la morena","true","","","20 km al W del río Pico, cerca del lago Pico n°1","","","","-44.233333","-71.266667","l","Inclinado convexo","","fresco húmedo","","","hídrica","","","Perfil n° 605/17","","","Chubut","","","","","","","","","","3 - 10%","","","","5.2","33","14","","franco"
+"18766","27.6","20.9","34.7","5.7","","","","10.7","9.4","0.4","0.4","26.9","4.4","","","9.5","37.55","15.15","10.7","4.95","0.9","","","0.0","","","","13.8","","","","33-52","","","","","","","7.5YR 4/4","","","suelto","","ligeramente adhesivo","plástico","","","","","A3","","17191","","irregular","","3813","605/17","","","Sedimentos morrénicos y cenizas volvánicas en su base","no modal","1959-02-11","Bosque alto de lenga (de hasta 25m) y sotobosque de gramíneas tupido y hierbas (trébol, frutilla silvestre, cebadilla criolla, muérdago,","Drenaje: bueno
+Pedregosidad: no se observa en superficie
+Aspecto: ondulado
+Permeabilidad: buena
+
+Hz.Aoo: prof de -7 a -4cm. Restos de latifoliados levemente descompuestos y restos de incendios. HCl:0
+Hz.Ao: prof de -4 a 0cm. Humus mulch. Suelo muy liviano, HCl:0 H2O2:0
+Hz.A1h: sin estructura con tendencia a granular, HCl:0 H2O2:+++. Gran cantidad de raicillas livianas vivas y muertas (se infiltra en el de abajo).
+Hz.A2: sin estructira a granular débil  HCl:0 H2O2:0
+Hz.A3: sin estructura con tendencia a compactarse HCl:0 H2O2:0, menos raíces
+Hz.Bpodzol: HCl:0 H2O2:0. Con manchas de materia orgánica y rojas (sesquióxidos); parece que tiene clay skins y mat. no meteorizado
+Hz.B3sesq.g: HCl:0 H2O2:vest
+Hz.B3sesq.(gleizado): HCl:0 H2O2:vest. Con chorreado de limonita en toda la masa y veteado rojizo; con algo de arena gruesa
+Hz.C-D: HCl:0 H2O2:0. Bochas y cascajos de hasta 15cm con rodados de la morena","true","","","20 km al W del río Pico, cerca del lago Pico n°1","","","","-44.233333","-71.266667","l","Inclinado convexo","","fresco húmedo","","","hídrica","","","Perfil n° 605/17","","","Chubut","","","","","","","","","","3 - 10%","","","","5.8","52","33","","franco"
+"18767","24.4","26.7","40.3","5.7","","","","11.3","12.5","1.3","1.6","16.5","","","","24.75","23.8","13.8","13.0","4.35","0.0","","","0.0","","","","13.6","","","","52-74","","","","","","","10YR 4/3","","","blando","","adhesivo","plástico","masiva","","","","B(podzol)","","17192","difuso","","","3813","605/17","","","Sedimentos morrénicos y cenizas volvánicas en su base","no modal","1959-02-11","Bosque alto de lenga (de hasta 25m) y sotobosque de gramíneas tupido y hierbas (trébol, frutilla silvestre, cebadilla criolla, muérdago,","Drenaje: bueno
+Pedregosidad: no se observa en superficie
+Aspecto: ondulado
+Permeabilidad: buena
+
+Hz.Aoo: prof de -7 a -4cm. Restos de latifoliados levemente descompuestos y restos de incendios. HCl:0
+Hz.Ao: prof de -4 a 0cm. Humus mulch. Suelo muy liviano, HCl:0 H2O2:0
+Hz.A1h: sin estructura con tendencia a granular, HCl:0 H2O2:+++. Gran cantidad de raicillas livianas vivas y muertas (se infiltra en el de abajo).
+Hz.A2: sin estructira a granular débil  HCl:0 H2O2:0
+Hz.A3: sin estructura con tendencia a compactarse HCl:0 H2O2:0, menos raíces
+Hz.Bpodzol: HCl:0 H2O2:0. Con manchas de materia orgánica y rojas (sesquióxidos); parece que tiene clay skins y mat. no meteorizado
+Hz.B3sesq.g: HCl:0 H2O2:vest
+Hz.B3sesq.(gleizado): HCl:0 H2O2:vest. Con chorreado de limonita en toda la masa y veteado rojizo; con algo de arena gruesa
+Hz.C-D: HCl:0 H2O2:0. Bochas y cascajos de hasta 15cm con rodados de la morena","true","","","20 km al W del río Pico, cerca del lago Pico n°1","","","","-44.233333","-71.266667","l","Inclinado convexo","","fresco húmedo","","","hídrica","","","Perfil n° 605/17","","","Chubut","","","","","","","","","","3 - 10%","","","","5.8","74","52","","franco"
+"18768","18.6","36.5","50.4","5.9","","","","10.8","19.6","1.9","4.2","12.65","","","","20.15","32.0","15.45","93.0","5.4","2.8","","","0.0","","","","13.9","","","","74-84","","","","","","","10YR 4/3","","","blando","","adhesivo","plástico","masiva","","","","B3sesq.g","","17193","claro","","","3813","605/17","","","Sedimentos morrénicos y cenizas volvánicas en su base","no modal","1959-02-11","Bosque alto de lenga (de hasta 25m) y sotobosque de gramíneas tupido y hierbas (trébol, frutilla silvestre, cebadilla criolla, muérdago,","Drenaje: bueno
+Pedregosidad: no se observa en superficie
+Aspecto: ondulado
+Permeabilidad: buena
+
+Hz.Aoo: prof de -7 a -4cm. Restos de latifoliados levemente descompuestos y restos de incendios. HCl:0
+Hz.Ao: prof de -4 a 0cm. Humus mulch. Suelo muy liviano, HCl:0 H2O2:0
+Hz.A1h: sin estructura con tendencia a granular, HCl:0 H2O2:+++. Gran cantidad de raicillas livianas vivas y muertas (se infiltra en el de abajo).
+Hz.A2: sin estructira a granular débil  HCl:0 H2O2:0
+Hz.A3: sin estructura con tendencia a compactarse HCl:0 H2O2:0, menos raíces
+Hz.Bpodzol: HCl:0 H2O2:0. Con manchas de materia orgánica y rojas (sesquióxidos); parece que tiene clay skins y mat. no meteorizado
+Hz.B3sesq.g: HCl:0 H2O2:vest
+Hz.B3sesq.(gleizado): HCl:0 H2O2:vest. Con chorreado de limonita en toda la masa y veteado rojizo; con algo de arena gruesa
+Hz.C-D: HCl:0 H2O2:0. Bochas y cascajos de hasta 15cm con rodados de la morena","true","","","20 km al W del río Pico, cerca del lago Pico n°1","","","","-44.233333","-71.266667","l","Inclinado convexo","","fresco húmedo","","","hídrica","","","Perfil n° 605/17","","","Chubut","","","","","","","","","","3 - 10%","","","","6.0","84","74","","franco"
+"18769","15.35","25.2","30.9","6.3","","","","8.9","15.5","0.2","0.6","11.0","","","","17.05","32.35","17.9","11.85","5.9","1.5","","","0.0","","","","13.8","","","","84-116","","","","","","","10YR 6/3 (matriz)","","","blando","friable","adhesivo","plástico","masiva","","","","B3sesq.(gleizado)","","17194","abrupto","","","3813","605/17","","","Sedimentos morrénicos y cenizas volvánicas en su base","no modal","1959-02-11","Bosque alto de lenga (de hasta 25m) y sotobosque de gramíneas tupido y hierbas (trébol, frutilla silvestre, cebadilla criolla, muérdago,","Drenaje: bueno
+Pedregosidad: no se observa en superficie
+Aspecto: ondulado
+Permeabilidad: buena
+
+Hz.Aoo: prof de -7 a -4cm. Restos de latifoliados levemente descompuestos y restos de incendios. HCl:0
+Hz.Ao: prof de -4 a 0cm. Humus mulch. Suelo muy liviano, HCl:0 H2O2:0
+Hz.A1h: sin estructura con tendencia a granular, HCl:0 H2O2:+++. Gran cantidad de raicillas livianas vivas y muertas (se infiltra en el de abajo).
+Hz.A2: sin estructira a granular débil  HCl:0 H2O2:0
+Hz.A3: sin estructura con tendencia a compactarse HCl:0 H2O2:0, menos raíces
+Hz.Bpodzol: HCl:0 H2O2:0. Con manchas de materia orgánica y rojas (sesquióxidos); parece que tiene clay skins y mat. no meteorizado
+Hz.B3sesq.g: HCl:0 H2O2:vest
+Hz.B3sesq.(gleizado): HCl:0 H2O2:vest. Con chorreado de limonita en toda la masa y veteado rojizo; con algo de arena gruesa
+Hz.C-D: HCl:0 H2O2:0. Bochas y cascajos de hasta 15cm con rodados de la morena","true","","","20 km al W del río Pico, cerca del lago Pico n°1","","","","-44.233333","-71.266667","l","Inclinado convexo","","fresco húmedo","","","hídrica","","","Perfil n° 605/17","","","Chubut","","","","","","","","","","3 - 10%","","","","6.0","116","84","","franco arcillo arenoso"
+"18770","14.8","27.3","40.9","6.8","","","","8.8","16.3","1.0","1.2","12.6","","","","14.05","22.55","21.65","12.2","12.45","3.6","","","0.0","","","","13.6","","","","116-126","","","","","","","10YR 5/4","","","","","adhesivo","plástico","","","","","C-D","","17195","","","","3813","605/17","","","Sedimentos morrénicos y cenizas volvánicas en su base","no modal","1959-02-11","Bosque alto de lenga (de hasta 25m) y sotobosque de gramíneas tupido y hierbas (trébol, frutilla silvestre, cebadilla criolla, muérdago,","Drenaje: bueno
+Pedregosidad: no se observa en superficie
+Aspecto: ondulado
+Permeabilidad: buena
+
+Hz.Aoo: prof de -7 a -4cm. Restos de latifoliados levemente descompuestos y restos de incendios. HCl:0
+Hz.Ao: prof de -4 a 0cm. Humus mulch. Suelo muy liviano, HCl:0 H2O2:0
+Hz.A1h: sin estructura con tendencia a granular, HCl:0 H2O2:+++. Gran cantidad de raicillas livianas vivas y muertas (se infiltra en el de abajo).
+Hz.A2: sin estructira a granular débil  HCl:0 H2O2:0
+Hz.A3: sin estructura con tendencia a compactarse HCl:0 H2O2:0, menos raíces
+Hz.Bpodzol: HCl:0 H2O2:0. Con manchas de materia orgánica y rojas (sesquióxidos); parece que tiene clay skins y mat. no meteorizado
+Hz.B3sesq.g: HCl:0 H2O2:vest
+Hz.B3sesq.(gleizado): HCl:0 H2O2:vest. Con chorreado de limonita en toda la masa y veteado rojizo; con algo de arena gruesa
+Hz.C-D: HCl:0 H2O2:0. Bochas y cascajos de hasta 15cm con rodados de la morena","true","","","20 km al W del río Pico, cerca del lago Pico n°1","","","","-44.233333","-71.266667","l","Inclinado convexo","","fresco húmedo","","","hídrica","","","Perfil n° 605/17","","","Chubut","","","","","","","","","","3 - 10%","","","","5.8","126","116","","franco arcillo arenoso"

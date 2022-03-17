@@ -1,0 +1,41 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"","","21.2","27.0","","5.86","5.14","","18.3","2.6","0.16","0.125","22.95","1.09","0.25","20.68","28.55","5.6","12.0","14.6","3.6","6.75","","","","","","","5.84","78.5","","","2-11","","4.4","0.0055","8.1","","","7,5YR3/4","7,5YR4/4","","","firme","ligeramente adhesivo","ligeramente plástico","bloques subangulares","gruesos","débil","","A","H","10980","abrupto","suave","","2442","C-79","100.0","","Basalto","no modal","2001-01-01","Suelo arado","En el horizonte A se encuentra grava fina y media.
+En el horizonte 2Bt existen abundantes gravas finas y medias y clastos de basalto.
+En horizonte 3C2 consta de 80% de basalto alterado y 20% de material fino.
+Fuente: Inventario del Recurso Suelo del Departamento L. N. Alem
+Ed: Rebén E. Godagnone - Juan C. de la Fuente
+Horizonte R: Basalto en proceso de edafización.
+Datos analíticos: Hierro (Fe):
+A1: 0.0004 - 2Bt: 0.0004 - 2C: 0.0004 - 2Cr: 0.0004.","true","e","","A 4,6 Km del cruce ruta 4 por ruta vieja","","","","-27.556389","-55.395833","Colinado","","","","","moderada","hídrica","","","Filandesa","Fil","","Misiones","","Hapludalfe mólico","","Somera (50-100cm); pendiente clase 4 (10-25%)","clase 0","agrícola","","moderada","rápido","10 - 25%","clase 5","clase 4","","5.86","13","0","RRR","franco arcillo arenoso"
+"","","17.7","23.5","","5.68","5.12","","14.77","2.54","0.246","0.142","31.33","1.72","0.23","27.95","32.42","1.95","6.9","9.5","11.8","6.1","","","","","","","5.82","79.3","","","15-25","","7.5","0.0055","8.1","clhm + ","","5YR3/2","","","","firme","adhesivo","plástico","bloques subangulares","medios","débil","","2Bt","H","10987","claro","suave","","2442","C-79","100.0","","Basalto","no modal","2001-01-01","Suelo arado","En el horizonte A se encuentra grava fina y media.
+En el horizonte 2Bt existen abundantes gravas finas y medias y clastos de basalto.
+En horizonte 3C2 consta de 80% de basalto alterado y 20% de material fino.
+Fuente: Inventario del Recurso Suelo del Departamento L. N. Alem
+Ed: Rebén E. Godagnone - Juan C. de la Fuente
+Horizonte R: Basalto en proceso de edafización.
+Datos analíticos: Hierro (Fe):
+A1: 0.0004 - 2Bt: 0.0004 - 2C: 0.0004 - 2Cr: 0.0004.","true","e","","A 4,6 Km del cruce ruta 4 por ruta vieja","","","","-27.556389","-55.395833","Colinado","","","","","moderada","hídrica","","","Filandesa","Fil","","Misiones","","Hapludalfe mólico","","Somera (50-100cm); pendiente clase 4 (10-25%)","clase 0","agrícola","","moderada","rápido","10 - 25%","clase 5","clase 4","","5.68","28","13","R","franco arcillo arenoso"
+"","","19.92","19.8","","5.78","5.1","","11.85","1.72","0.225","0.125","36.99","1.59","0.21","20.01","24.66","1.75","3.85","5.05","8.1","19.6","","","","","","","5.88","70.3","","","30-40","","7.6","0.0055","8.1","","","5YR3/2","","","","firme","adhesivo","plástico","masiva","","","","2C","H","10988","abrupto","suave","","2442","C-79","100.0","","Basalto","no modal","2001-01-01","Suelo arado","En el horizonte A se encuentra grava fina y media.
+En el horizonte 2Bt existen abundantes gravas finas y medias y clastos de basalto.
+En horizonte 3C2 consta de 80% de basalto alterado y 20% de material fino.
+Fuente: Inventario del Recurso Suelo del Departamento L. N. Alem
+Ed: Rebén E. Godagnone - Juan C. de la Fuente
+Horizonte R: Basalto en proceso de edafización.
+Datos analíticos: Hierro (Fe):
+A1: 0.0004 - 2Bt: 0.0004 - 2C: 0.0004 - 2Cr: 0.0004.","true","e","","A 4,6 Km del cruce ruta 4 por ruta vieja","","","","-27.556389","-55.395833","Colinado","","","","","moderada","hídrica","","","Filandesa","Fil","","Misiones","","Hapludalfe mólico","","Somera (50-100cm); pendiente clase 4 (10-25%)","clase 0","agrícola","","moderada","rápido","10 - 25%","clase 5","clase 4","","5.78","42","28","R","arcillo arenoso"
+"","","20.17","25.9","","5.9","5.01","","16.21","3.74","0.152","0.166","38.51","0.93","0.136","18.97","22.82","1.55","3.15","4.87","7.9","21.2","","","","","","","5.73","77.9","","","45-65","","6.8","0.0055","8.1","","","5YR3/2","","","","firme","adhesivo","plástico","masiva","","","","3Cr","H","10989","","","","2442","C-79","100.0","","Basalto","no modal","2001-01-01","Suelo arado","En el horizonte A se encuentra grava fina y media.
+En el horizonte 2Bt existen abundantes gravas finas y medias y clastos de basalto.
+En horizonte 3C2 consta de 80% de basalto alterado y 20% de material fino.
+Fuente: Inventario del Recurso Suelo del Departamento L. N. Alem
+Ed: Rebén E. Godagnone - Juan C. de la Fuente
+Horizonte R: Basalto en proceso de edafización.
+Datos analíticos: Hierro (Fe):
+A1: 0.0004 - 2Bt: 0.0004 - 2C: 0.0004 - 2Cr: 0.0004.","true","e","","A 4,6 Km del cruce ruta 4 por ruta vieja","","","","-27.556389","-55.395833","Colinado","","","","","moderada","hídrica","","","Filandesa","Fil","","Misiones","","Hapludalfe mólico","","Somera (50-100cm); pendiente clase 4 (10-25%)","clase 0","agrícola","","moderada","rápido","10 - 25%","clase 5","clase 4","","5.93","67","42","","arcillo arenoso"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","Basalto","R","","10990","","","","2442","C-79","100.0","","Basalto","no modal","2001-01-01","Suelo arado","En el horizonte A se encuentra grava fina y media.
+En el horizonte 2Bt existen abundantes gravas finas y medias y clastos de basalto.
+En horizonte 3C2 consta de 80% de basalto alterado y 20% de material fino.
+Fuente: Inventario del Recurso Suelo del Departamento L. N. Alem
+Ed: Rebén E. Godagnone - Juan C. de la Fuente
+Horizonte R: Basalto en proceso de edafización.
+Datos analíticos: Hierro (Fe):
+A1: 0.0004 - 2Bt: 0.0004 - 2C: 0.0004 - 2Cr: 0.0004.","true","e","","A 4,6 Km del cruce ruta 4 por ruta vieja","","","","-27.556389","-55.395833","Colinado","","","","","moderada","hídrica","","","Filandesa","Fil","","Misiones","","Hapludalfe mólico","","Somera (50-100cm); pendiente clase 4 (10-25%)","clase 0","agrícola","","moderada","rápido","10 - 25%","clase 5","clase 4","","","70","67","",""

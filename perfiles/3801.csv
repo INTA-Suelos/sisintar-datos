@@ -1,0 +1,43 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"20169","","","","","","","","","","","","","8.88","0.62","","","","","","","","","","","","","","","","","","-3-0","","14.3","","","","","10YR 3/2","10YR 5/2","","","","","","","","","","Aoo+Ao","","17151","abrupto","","","3801","756/15","","100.0","Sedimentos coluviales finos","no modal","1962-02-28","Bosque de lengas de alto porte, sotobosque sin gramíneas","Drenaje: moderado
+Pedregosidad: gravas y cantos rodados desde los 60cm
+Raíces: más abundantes hasta los 40cm
+Erosión: suelo cubierto de hierbas, helechos, musgo 
+Suelo sesquióxido
+Hz.Cg: moteados abundantes
+En corte de camino. Valle o quebrada de Larsiparcaak","true","","","A 1km al E de la confluencia del río Hambre con el Larsiparcaak","","","","-54.866667","-67.366667","Ladera de la sierra","Quebrado inclinado","","húmedo","","","","","","Perfil n° 756/15","","","Tierra del Fuego","","","","","","","","","","10 - 25%","","","","","0","0","",""
+"20170","43.25","37.5","59.7","5.7","","","","","","","","","6.04","0.419","","","","","","","","","","","","","","","62.8","","","0-4","","14.4","","","","","10YR 4/2","10YR 7/2","","suelto","","ligeramente adhesivo","ligeramente plástico","granular","muy finos","débil","","A2","","17152","abrupto","","","3801","756/15","","100.0","Sedimentos coluviales finos","no modal","1962-02-28","Bosque de lengas de alto porte, sotobosque sin gramíneas","Drenaje: moderado
+Pedregosidad: gravas y cantos rodados desde los 60cm
+Raíces: más abundantes hasta los 40cm
+Erosión: suelo cubierto de hierbas, helechos, musgo 
+Suelo sesquióxido
+Hz.Cg: moteados abundantes
+En corte de camino. Valle o quebrada de Larsiparcaak","true","","","A 1km al E de la confluencia del río Hambre con el Larsiparcaak","","","","-54.866667","-67.366667","Ladera de la sierra","Quebrado inclinado","","húmedo","","","","","","Perfil n° 756/15","","","Tierra del Fuego","","","","","","","","","","10 - 25%","","","","5.7","4","0","","franco"
+"20171","36.6","28.7","46.8","5.9","","","","","","","","","3.66","0.321","","","","","","","","","","","","","","","61.3","","","4-12","","11.4","","","","","10YR 3/2","10YR 6/3","","","","adhesivo","plástico","bloques subangulares","","débil","","B21","","17155","abrupto","","","3801","756/15","","100.0","Sedimentos coluviales finos","no modal","1962-02-28","Bosque de lengas de alto porte, sotobosque sin gramíneas","Drenaje: moderado
+Pedregosidad: gravas y cantos rodados desde los 60cm
+Raíces: más abundantes hasta los 40cm
+Erosión: suelo cubierto de hierbas, helechos, musgo 
+Suelo sesquióxido
+Hz.Cg: moteados abundantes
+En corte de camino. Valle o quebrada de Larsiparcaak","true","","","A 1km al E de la confluencia del río Hambre con el Larsiparcaak","","","","-54.866667","-67.366667","Ladera de la sierra","Quebrado inclinado","","húmedo","","","","","","Perfil n° 756/15","","","Tierra del Fuego","","","","","","","","","","10 - 25%","","","","5.9","12","4","","franco arcillo limoso"
+"20172","47.75","18.6","36.6","5.7","","","","","","","","","2.14","0.18","","","","","","","","","","","","","","","50.8","","","12-22","","11.9","","","","","10YR 4/4","10YR 6/4","","","","adhesivo","plástico","bloques subangulares","","débil","","B22","","17156","claro","","","3801","756/15","","100.0","Sedimentos coluviales finos","no modal","1962-02-28","Bosque de lengas de alto porte, sotobosque sin gramíneas","Drenaje: moderado
+Pedregosidad: gravas y cantos rodados desde los 60cm
+Raíces: más abundantes hasta los 40cm
+Erosión: suelo cubierto de hierbas, helechos, musgo 
+Suelo sesquióxido
+Hz.Cg: moteados abundantes
+En corte de camino. Valle o quebrada de Larsiparcaak","true","","","A 1km al E de la confluencia del río Hambre con el Larsiparcaak","","","","-54.866667","-67.366667","Ladera de la sierra","Quebrado inclinado","","húmedo","","","","","","Perfil n° 756/15","","","Tierra del Fuego","","","","","","","","","","10 - 25%","","","","5.7","22","12","","franco arcillo limoso"
+"20173","38.85","20.9","39.7","5.6","","","","","","","","","2.14","0.162","","","","","","","","","","","","","","","52.6","","","22-45","","13.2","","","","","10YR 5/4","2.5Y 6/6","","","","adhesivo","plástico","masiva","","","","B3","","17157","claro","","","3801","756/15","","100.0","Sedimentos coluviales finos","no modal","1962-02-28","Bosque de lengas de alto porte, sotobosque sin gramíneas","Drenaje: moderado
+Pedregosidad: gravas y cantos rodados desde los 60cm
+Raíces: más abundantes hasta los 40cm
+Erosión: suelo cubierto de hierbas, helechos, musgo 
+Suelo sesquióxido
+Hz.Cg: moteados abundantes
+En corte de camino. Valle o quebrada de Larsiparcaak","true","","","A 1km al E de la confluencia del río Hambre con el Larsiparcaak","","","","-54.866667","-67.366667","Ladera de la sierra","Quebrado inclinado","","húmedo","","","","","","Perfil n° 756/15","","","Tierra del Fuego","","","","","","","","","","10 - 25%","","","","5.6","45","22","","franco arcillo limoso"
+"20174","43.2","16.5","35.3","5.6","","","","","","","","","1.81","0.14","","","","","","","","","","","","","","","46.7","","","45-55","","12.9","","","","","2.5Y 6/4","2.5Y 8/4","","","","adhesivo","plástico","masiva","","","","Cg","","17158","","","","3801","756/15","","100.0","Sedimentos coluviales finos","no modal","1962-02-28","Bosque de lengas de alto porte, sotobosque sin gramíneas","Drenaje: moderado
+Pedregosidad: gravas y cantos rodados desde los 60cm
+Raíces: más abundantes hasta los 40cm
+Erosión: suelo cubierto de hierbas, helechos, musgo 
+Suelo sesquióxido
+Hz.Cg: moteados abundantes
+En corte de camino. Valle o quebrada de Larsiparcaak","true","","","A 1km al E de la confluencia del río Hambre con el Larsiparcaak","","","","-54.866667","-67.366667","Ladera de la sierra","Quebrado inclinado","","húmedo","","","","","","Perfil n° 756/15","","","Tierra del Fuego","","","","","","","","","","10 - 25%","","","","5.6","55","45","","arcilloso limoso"

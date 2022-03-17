@@ -1,0 +1,46 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"","","30.3","36.1","","5.86","5.0","","27.9","2.0","0.21","0.18","44.63","2.3","0.24","21.86","28.86","4.5","9.45","5.7","3.8","3.1","","71.4","","","","","5.78","84.0","","","2-13","","9.6","0.05","8.1","","","2,5YR3/2","","","","firme","adhesivo","plástico","bloques subangulares","medios","moderado","","A","H","10936","claro","suave","","2432","C-66","100.0","","Basalto","modal","2001-01-01","Gramíneas","Altitud: 280 mts
+A1 con clastos de basalto edafizado.
+2 A1 con abundantes gravas finas y gruesas, clastos de basalto muy alterado.
+2Cr1 2Cr2 corresponde a un manto de basalto alterado.
+Fuente: Inventario del Recurso Suelo del Departamento L. N. Alem
+Ed: Rubén E. Godagnone - Juan C. de la Fuente
+
+Datos analíticos: Fe2O3 (%): 
+A: 0.0004 - 2A: 0.023 - 2Cr1: 0.006 - 2Cr2: 0.008 -","true","e","","A 1 Km de ruta 14 por camino vecinal hacia Escuela N° 429, Colonia Gral. Güemes","","","","-27.653969","-55.561386","Colinado","","","","","moderada","hídrica","","","Alberdi","Abd","","Misiones","","Hapludol entico","","Muy somera (0-50cm); somera (50-100cm)","clase 0","","","","","3 - 10%","","clase 4","","5.86","15","0","RRR","arcillo arenoso"
+"","","36.6","40.1","","6.15","5.07","","31.9","4.4","0.11","0.23","43.95","2.85","0.4","11.37","15.55","2.45","4.6","4.2","9.65","19.6","","73.4","","","","","3.5","91.3","","","18-38","","7.1","0.05","8.1","","","2,5YR3/2","","","","firme","adhesivo","plástico","bloques subangulares","gruesos","moderado","","2A","H","10937","abrupto","suave","","2432","C-66","100.0","","Basalto","modal","2001-01-01","Gramíneas","Altitud: 280 mts
+A1 con clastos de basalto edafizado.
+2 A1 con abundantes gravas finas y gruesas, clastos de basalto muy alterado.
+2Cr1 2Cr2 corresponde a un manto de basalto alterado.
+Fuente: Inventario del Recurso Suelo del Departamento L. N. Alem
+Ed: Rubén E. Godagnone - Juan C. de la Fuente
+
+Datos analíticos: Fe2O3 (%): 
+A: 0.0004 - 2A: 0.023 - 2Cr1: 0.006 - 2Cr2: 0.008 -","true","e","","A 1 Km de ruta 14 por camino vecinal hacia Escuela N° 429, Colonia Gral. Güemes","","","","-27.653969","-55.561386","Colinado","","","","","moderada","hídrica","","","Alberdi","Abd","","Misiones","","Hapludol entico","","Muy somera (0-50cm); somera (50-100cm)","clase 0","","","","","3 - 10%","","clase 4","","6.15","40","15","RR","arcillo arenoso"
+"","","40.4","43.5","","6.41","5.19","","32.7","7.3","0.13","0.31","38.4","0.79","0.19","11.52","16.4","2.6","5.05","5.2","13.1","19.25","","90.9","","","","","3.1","92.8","","","43-58","","4.2","0.05","8.1","","","","","","","","","","masiva","","","","2Cr1","H","10938","claro","suave","","2432","C-66","100.0","","Basalto","modal","2001-01-01","Gramíneas","Altitud: 280 mts
+A1 con clastos de basalto edafizado.
+2 A1 con abundantes gravas finas y gruesas, clastos de basalto muy alterado.
+2Cr1 2Cr2 corresponde a un manto de basalto alterado.
+Fuente: Inventario del Recurso Suelo del Departamento L. N. Alem
+Ed: Rubén E. Godagnone - Juan C. de la Fuente
+
+Datos analíticos: Fe2O3 (%): 
+A: 0.0004 - 2A: 0.023 - 2Cr1: 0.006 - 2Cr2: 0.008 -","true","e","","A 1 Km de ruta 14 por camino vecinal hacia Escuela N° 429, Colonia Gral. Güemes","","","","-27.653969","-55.561386","Colinado","","","","","moderada","hídrica","","","Alberdi","Abd","","Misiones","","Hapludol entico","","Muy somera (0-50cm); somera (50-100cm)","clase 0","","","","","3 - 10%","","clase 4","","6.41","60","40","R","arcillo arenoso"
+"","","40.7","43.6","","6.82","5.29","","33.0","7.2","0.125","0.34","17.03","0.42","0.086","5.18","6.92","2.05","3.5","8.7","25.3","36.5","","83.3","","","","","2.85","93.3","","","65-95","","4.9","0.05","8.1","","","","","","","","","","masiva","","","","2Cr2","","10939","claro","suave","","2432","C-66","100.0","","Basalto","modal","2001-01-01","Gramíneas","Altitud: 280 mts
+A1 con clastos de basalto edafizado.
+2 A1 con abundantes gravas finas y gruesas, clastos de basalto muy alterado.
+2Cr1 2Cr2 corresponde a un manto de basalto alterado.
+Fuente: Inventario del Recurso Suelo del Departamento L. N. Alem
+Ed: Rubén E. Godagnone - Juan C. de la Fuente
+
+Datos analíticos: Fe2O3 (%): 
+A: 0.0004 - 2A: 0.023 - 2Cr1: 0.006 - 2Cr2: 0.008 -","true","e","","A 1 Km de ruta 14 por camino vecinal hacia Escuela N° 429, Colonia Gral. Güemes","","","","-27.653969","-55.561386","Colinado","","","","","moderada","hídrica","","","Alberdi","Abd","","Misiones","","Hapludol entico","","Muy somera (0-50cm); somera (50-100cm)","clase 0","","","","","3 - 10%","","clase 4","","6.82","100","60","","franco arenoso"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","Basalto","R","","10940","","","","2432","C-66","100.0","","Basalto","modal","2001-01-01","Gramíneas","Altitud: 280 mts
+A1 con clastos de basalto edafizado.
+2 A1 con abundantes gravas finas y gruesas, clastos de basalto muy alterado.
+2Cr1 2Cr2 corresponde a un manto de basalto alterado.
+Fuente: Inventario del Recurso Suelo del Departamento L. N. Alem
+Ed: Rubén E. Godagnone - Juan C. de la Fuente
+
+Datos analíticos: Fe2O3 (%): 
+A: 0.0004 - 2A: 0.023 - 2Cr1: 0.006 - 2Cr2: 0.008 -","true","e","","A 1 Km de ruta 14 por camino vecinal hacia Escuela N° 429, Colonia Gral. Güemes","","","","-27.653969","-55.561386","Colinado","","","","","moderada","hídrica","","","Alberdi","Abd","","Misiones","","Hapludol entico","","Muy somera (0-50cm); somera (50-100cm)","clase 0","","","","","3 - 10%","","clase 4","","","105","100","",""

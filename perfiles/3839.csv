@@ -1,0 +1,46 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","suelto","","","","","","","","Av","","17316","","","","3839","605/23","","","Rodados tehuelches cemantados","no modal","1959-02-14","Predominan compuestas, ramitas verdes y cactáceas","Drenaje: bueno
+Pedregosidad: abundante
+Aspecto: ondulado o quebrado
+Permeabilidad: buena
+Grietas rellenas de CO3= blanco. Sin muestras
+Hz.A: En forma de placas, no de horizonte. Difuso
+Hz.B: grava, gravillas y valvas. Clay skins. Sin calcáreo sobre las valvas
+Hz.B3ca: rodados de diferente tamaño y restos de conchilla
+Hz.C: sup. del tehuelche rodado de hasta 10cm. Arena fluvial suelta estratificada y hojitas blancas por acumulación de CaCO3","true","","","A 12km de Comodoro Rivadavia, en ruta W hacia Holdich (Chubut)","","","","-45.9","-67.616667","Ladera de morrena lateral al pie de terraza alta","","","seco","","moderada","eólica","pedregosidad","","Perfil n° 605/23","","","Chubut","","","","","","","cóncavo","","","","","","","","1","0","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","C","","17320","","","","3839","605/23","","","Rodados tehuelches cemantados","no modal","1959-02-14","Predominan compuestas, ramitas verdes y cactáceas","Drenaje: bueno
+Pedregosidad: abundante
+Aspecto: ondulado o quebrado
+Permeabilidad: buena
+Grietas rellenas de CO3= blanco. Sin muestras
+Hz.A: En forma de placas, no de horizonte. Difuso
+Hz.B: grava, gravillas y valvas. Clay skins. Sin calcáreo sobre las valvas
+Hz.B3ca: rodados de diferente tamaño y restos de conchilla
+Hz.C: sup. del tehuelche rodado de hasta 10cm. Arena fluvial suelta estratificada y hojitas blancas por acumulación de CaCO3","true","","","A 12km de Comodoro Rivadavia, en ruta W hacia Holdich (Chubut)","","","","-45.9","-67.616667","Ladera de morrena lateral al pie de terraza alta","","","seco","","moderada","eólica","pedregosidad","","Perfil n° 605/23","","","Chubut","","","","","","","cóncavo","","","","","","","","","0","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","10 YR 4/2","10 YR 4/3.5","","","","","","","","","","A1","","17317","","","","3839","605/23","","","Rodados tehuelches cemantados","no modal","1959-02-14","Predominan compuestas, ramitas verdes y cactáceas","Drenaje: bueno
+Pedregosidad: abundante
+Aspecto: ondulado o quebrado
+Permeabilidad: buena
+Grietas rellenas de CO3= blanco. Sin muestras
+Hz.A: En forma de placas, no de horizonte. Difuso
+Hz.B: grava, gravillas y valvas. Clay skins. Sin calcáreo sobre las valvas
+Hz.B3ca: rodados de diferente tamaño y restos de conchilla
+Hz.C: sup. del tehuelche rodado de hasta 10cm. Arena fluvial suelta estratificada y hojitas blancas por acumulación de CaCO3","true","","","A 12km de Comodoro Rivadavia, en ruta W hacia Holdich (Chubut)","","","","-45.9","-67.616667","Ladera de morrena lateral al pie de terraza alta","","","seco","","moderada","eólica","pedregosidad","","Perfil n° 605/23","","","Chubut","","","","","","","cóncavo","","","","","","","","9","1","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","10 YR 5/2","10 YR 4/3","","","","","","","","","","B","","17318","","","","3839","605/23","","","Rodados tehuelches cemantados","no modal","1959-02-14","Predominan compuestas, ramitas verdes y cactáceas","Drenaje: bueno
+Pedregosidad: abundante
+Aspecto: ondulado o quebrado
+Permeabilidad: buena
+Grietas rellenas de CO3= blanco. Sin muestras
+Hz.A: En forma de placas, no de horizonte. Difuso
+Hz.B: grava, gravillas y valvas. Clay skins. Sin calcáreo sobre las valvas
+Hz.B3ca: rodados de diferente tamaño y restos de conchilla
+Hz.C: sup. del tehuelche rodado de hasta 10cm. Arena fluvial suelta estratificada y hojitas blancas por acumulación de CaCO3","true","","","A 12km de Comodoro Rivadavia, en ruta W hacia Holdich (Chubut)","","","","-45.9","-67.616667","Ladera de morrena lateral al pie de terraza alta","","","seco","","moderada","eólica","pedregosidad","","Perfil n° 605/23","","","Chubut","","","","","","","cóncavo","","","","","","","","26","9","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","10 YR 6/3","10 YR 6/3","","","","","","","","","","B3ca","","17319","","","","3839","605/23","","","Rodados tehuelches cemantados","no modal","1959-02-14","Predominan compuestas, ramitas verdes y cactáceas","Drenaje: bueno
+Pedregosidad: abundante
+Aspecto: ondulado o quebrado
+Permeabilidad: buena
+Grietas rellenas de CO3= blanco. Sin muestras
+Hz.A: En forma de placas, no de horizonte. Difuso
+Hz.B: grava, gravillas y valvas. Clay skins. Sin calcáreo sobre las valvas
+Hz.B3ca: rodados de diferente tamaño y restos de conchilla
+Hz.C: sup. del tehuelche rodado de hasta 10cm. Arena fluvial suelta estratificada y hojitas blancas por acumulación de CaCO3","true","","","A 12km de Comodoro Rivadavia, en ruta W hacia Holdich (Chubut)","","","","-45.9","-67.616667","Ladera de morrena lateral al pie de terraza alta","","","seco","","moderada","eólica","pedregosidad","","Perfil n° 605/23","","","Chubut","","","","","","","cóncavo","","","","","","","","42","26","",""

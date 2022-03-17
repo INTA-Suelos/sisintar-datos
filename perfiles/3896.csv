@@ -1,0 +1,61 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"18852","15.05","","","4.1","","","","","","","","6.7","4.0","0.31","","10.5","9.4","28.0","22.4","5.5","0.6","","","0.0","","","","","","","","","","","","","","","10 YR 2/2","10 YR 3/2","","suelto","","ligeramente adhesivo","ligeramente plástico","granular","","","","A111r","","17622","gradual","","","3896","605/43","","","Acumulaciones glaciales de rodados y materiales sedimentados finos","no modal","1959-02-28","Coirón exclusivamente","Drenaje: bueno
+Pedreg: superficial:no (solo algunos bloques)
+Pendiente: muy variable
+Aspecto: ondulado (formas suaves)
+Raíes: abundantes hasta los 57cm
+Erosión: no se observa
+Permeab: buena
+Hz.A111r: turboso, muchas raíces, muy pocos rodados (5%)
+Hz.A12: muchas raíces, 20% rodados
+Hz.AC: más de 80% de rodados, bastantes raíces
+Hz.C1g: mas de 90% de rodados, rodados de 5cm, moteados rojos en vetas
+Hz.C2g: moteados gley, manchas negras y rojas ferruginosas","true","","","km 195 ruta 293, entre Glencross y El Turbio. A 24km al NW de estancia Glencross","","","","-51.863023","-71.875","Colinas de origen glacial (morrenas modif. por erosión fluvial)","Convexo","","seco fresco","","","","","","Perfil n° 605/43","","","Santa Cruz","","","","","","","","","","","","","","6.4","23","0","","franco"
+"18853","15.95","","","4.2","","","","","","","","15.55","2.04","0.1","","8.15","16.6","20.5","16.35","9.35","6.0","","","0.0","","","","","","","","","","","","","","","10 YR 3/2","10 YR 3/3","","","friable","ligeramente adhesivo","plástico","granular","","","","A12","","17623","gradual","","","3896","605/43","","","Acumulaciones glaciales de rodados y materiales sedimentados finos","no modal","1959-02-28","Coirón exclusivamente","Drenaje: bueno
+Pedreg: superficial:no (solo algunos bloques)
+Pendiente: muy variable
+Aspecto: ondulado (formas suaves)
+Raíes: abundantes hasta los 57cm
+Erosión: no se observa
+Permeab: buena
+Hz.A111r: turboso, muchas raíces, muy pocos rodados (5%)
+Hz.A12: muchas raíces, 20% rodados
+Hz.AC: más de 80% de rodados, bastantes raíces
+Hz.C1g: mas de 90% de rodados, rodados de 5cm, moteados rojos en vetas
+Hz.C2g: moteados gley, manchas negras y rojas ferruginosas","true","","","km 195 ruta 293, entre Glencross y El Turbio. A 24km al NW de estancia Glencross","","","","-51.863023","-71.875","Colinas de origen glacial (morrenas modif. por erosión fluvial)","Convexo","","seco fresco","","","","","","Perfil n° 605/43","","","Santa Cruz","","","","","","","","","","","","","","5.6","31","23","","franco"
+"18854","12.45","","","4.4","","","","","","","","12.65","0.69","0.05","","21.95","12.85","22.4","8.25","8.25","5.45","","","0.0","","","","","","","","","","","","","","","10 YR 4/2","10 YR 4/3","","","friable","no adhesivo","ligeramente plástico","granular","","","","AC","","17624","claro","","","3896","605/43","","","Acumulaciones glaciales de rodados y materiales sedimentados finos","no modal","1959-02-28","Coirón exclusivamente","Drenaje: bueno
+Pedreg: superficial:no (solo algunos bloques)
+Pendiente: muy variable
+Aspecto: ondulado (formas suaves)
+Raíes: abundantes hasta los 57cm
+Erosión: no se observa
+Permeab: buena
+Hz.A111r: turboso, muchas raíces, muy pocos rodados (5%)
+Hz.A12: muchas raíces, 20% rodados
+Hz.AC: más de 80% de rodados, bastantes raíces
+Hz.C1g: mas de 90% de rodados, rodados de 5cm, moteados rojos en vetas
+Hz.C2g: moteados gley, manchas negras y rojas ferruginosas","true","","","km 195 ruta 293, entre Glencross y El Turbio. A 24km al NW de estancia Glencross","","","","-51.863023","-71.875","Colinas de origen glacial (morrenas modif. por erosión fluvial)","Convexo","","seco fresco","","","","","","Perfil n° 605/43","","","Santa Cruz","","","","","","","","","","","","","","6.2","57","31","","franco"
+"18855","10.9","","","5.4","","","","","","","","10.45","0.29","0.02","","16.85","23.85","15.55","12.35","12.35","5.95","","","0.0","","","","","","","","","","","","","","","2.5 YR 572","2.5YR 6/2","","","friable","no adhesivo","ligeramente plástico","granular","","","","C1g","","17625","gradual","","","3896","605/43","","","Acumulaciones glaciales de rodados y materiales sedimentados finos","no modal","1959-02-28","Coirón exclusivamente","Drenaje: bueno
+Pedreg: superficial:no (solo algunos bloques)
+Pendiente: muy variable
+Aspecto: ondulado (formas suaves)
+Raíes: abundantes hasta los 57cm
+Erosión: no se observa
+Permeab: buena
+Hz.A111r: turboso, muchas raíces, muy pocos rodados (5%)
+Hz.A12: muchas raíces, 20% rodados
+Hz.AC: más de 80% de rodados, bastantes raíces
+Hz.C1g: mas de 90% de rodados, rodados de 5cm, moteados rojos en vetas
+Hz.C2g: moteados gley, manchas negras y rojas ferruginosas","true","","","km 195 ruta 293, entre Glencross y El Turbio. A 24km al NW de estancia Glencross","","","","-51.863023","-71.875","Colinas de origen glacial (morrenas modif. por erosión fluvial)","Convexo","","seco fresco","","","","","","Perfil n° 605/43","","","Santa Cruz","","","","","","","","","","","","","","6.4","85","57","","franco"
+"18856","13.3","","","5.6","","","","","","","","13.1","","","","23.85","25.3","15.2","7.3","7.3","3.8","","","0.0","","","","","","","","","","","","","","","con manchas rojizas","2.5YR 6/2","","","friable","muy adhesivo","plástico","masiva","","","","C2g","","17626","","","","3896","605/43","","","Acumulaciones glaciales de rodados y materiales sedimentados finos","no modal","1959-02-28","Coirón exclusivamente","Drenaje: bueno
+Pedreg: superficial:no (solo algunos bloques)
+Pendiente: muy variable
+Aspecto: ondulado (formas suaves)
+Raíes: abundantes hasta los 57cm
+Erosión: no se observa
+Permeab: buena
+Hz.A111r: turboso, muchas raíces, muy pocos rodados (5%)
+Hz.A12: muchas raíces, 20% rodados
+Hz.AC: más de 80% de rodados, bastantes raíces
+Hz.C1g: mas de 90% de rodados, rodados de 5cm, moteados rojos en vetas
+Hz.C2g: moteados gley, manchas negras y rojas ferruginosas","true","","","km 195 ruta 293, entre Glencross y El Turbio. A 24km al NW de estancia Glencross","","","","-51.863023","-71.875","Colinas de origen glacial (morrenas modif. por erosión fluvial)","Convexo","","seco fresco","","","","","","Perfil n° 605/43","","","Santa Cruz","","","","","","","","","","","","","","6.6","107","87","","franco arcilloso"

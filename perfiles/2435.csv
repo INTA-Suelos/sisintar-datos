@@ -1,0 +1,37 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"","","27.1","31.1","","6.11","5.48","","23.9","2.1","0.94","0.18","18.53","2.94","0.44","16.82","20.02","1.8","7.1","18.9","19.2","14.45","","57.4","","","","","4.0","87.1","","","2-9","","6.7","0.055","57.0","","","2,5YR3/2","","","","firme","ligeramente adhesivo","plástico","bloques subangulares","medios","débil","Gravas y clastos basalto","A","F","10953","abrupto","suave","","2435","C-55","100.0","","Basalto","modal","2001-01-01","Gramilla","Altitud: 275 mts
+El horizonte AC está compuesto por 60% de clastos de Basalto y 40% de material fino.
+El horizonte C está compuesto por 80% de clastos de Basalto y 20% de material fino.
+Fuente: Inventario del Recurso Suelo del Departamento L.N. Alem 
+Ed: Rubén E. Godagnone - Juan C. de la Fuente
+
+Muy somero (0-50 cm).
+Datos analíticos: Fe2O3 (%):
+A1: 0.0004 - AC: 0.0004","true","e","","A 200 metros del puente A° Tortugas por camino vecinal hacia ruta 14. Colonia Félix Taranco","","","","-27.675","-55.534722","Colinado","","","","","ligera","hídrica","","","Franco","Fra","","Misiones","","Hapludol litico, esquelético arenosa","","Muy somera ( 0-50 cm )","clase 0","","","","","3 - 10%","","clase 4","","6.11","11","0","RRR","franco arenoso"
+"","","26.4","29.6","","6.92","5.65","","24.4","1.2","0.58","0.175","29.5","2.13","0.25","27.05","34.25","2.75","8.65","10.6","7.4","6.85","","74.3","","","","","3.17","82.3","","","13-22","","8.5","0.055","8.1","","","2,5YR3/3","","","","firme","adhesivo","plástico","bloques angulares","finos","débil","","AC","F","10954","claro","suave","","2435","C-55","100.0","","Basalto","modal","2001-01-01","Gramilla","Altitud: 275 mts
+El horizonte AC está compuesto por 60% de clastos de Basalto y 40% de material fino.
+El horizonte C está compuesto por 80% de clastos de Basalto y 20% de material fino.
+Fuente: Inventario del Recurso Suelo del Departamento L.N. Alem 
+Ed: Rubén E. Godagnone - Juan C. de la Fuente
+
+Muy somero (0-50 cm).
+Datos analíticos: Fe2O3 (%):
+A1: 0.0004 - AC: 0.0004","true","e","","A 200 metros del puente A° Tortugas por camino vecinal hacia ruta 14. Colonia Félix Taranco","","","","-27.675","-55.534722","Colinado","","","","","ligera","hídrica","","","Franco","Fra","","Misiones","","Hapludol litico, esquelético arenosa","","Muy somera ( 0-50 cm )","clase 0","","","","","3 - 10%","","clase 4","","6.52","25","11","R","franco arcillo arenoso"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","masiva","","","","Cr","","10955","abrupto","suave","","2435","C-55","100.0","","Basalto","modal","2001-01-01","Gramilla","Altitud: 275 mts
+El horizonte AC está compuesto por 60% de clastos de Basalto y 40% de material fino.
+El horizonte C está compuesto por 80% de clastos de Basalto y 20% de material fino.
+Fuente: Inventario del Recurso Suelo del Departamento L.N. Alem 
+Ed: Rubén E. Godagnone - Juan C. de la Fuente
+
+Muy somero (0-50 cm).
+Datos analíticos: Fe2O3 (%):
+A1: 0.0004 - AC: 0.0004","true","e","","A 200 metros del puente A° Tortugas por camino vecinal hacia ruta 14. Colonia Félix Taranco","","","","-27.675","-55.534722","Colinado","","","","","ligera","hídrica","","","Franco","Fra","","Misiones","","Hapludol litico, esquelético arenosa","","Muy somera ( 0-50 cm )","clase 0","","","","","3 - 10%","","clase 4","","","42","25","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","Basalto","R","","10956","","","","2435","C-55","100.0","","Basalto","modal","2001-01-01","Gramilla","Altitud: 275 mts
+El horizonte AC está compuesto por 60% de clastos de Basalto y 40% de material fino.
+El horizonte C está compuesto por 80% de clastos de Basalto y 20% de material fino.
+Fuente: Inventario del Recurso Suelo del Departamento L.N. Alem 
+Ed: Rubén E. Godagnone - Juan C. de la Fuente
+
+Muy somero (0-50 cm).
+Datos analíticos: Fe2O3 (%):
+A1: 0.0004 - AC: 0.0004","true","e","","A 200 metros del puente A° Tortugas por camino vecinal hacia ruta 14. Colonia Félix Taranco","","","","-27.675","-55.534722","Colinado","","","","","ligera","hídrica","","","Franco","Fra","","Misiones","","Hapludol litico, esquelético arenosa","","Muy somera ( 0-50 cm )","clase 0","","","","","3 - 10%","","clase 4","","","47","42","",""

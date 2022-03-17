@@ -1,0 +1,49 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"","","13.8","18.1","","6.06","4.87","","10.8","2.8","0.065","0.15","29.1","2.29","0.28","21.2","30.6","10.9","12.2","6.7","5.9","4.6","","","","","","","4.24","76.2","","","2-25","","8.2","","","","","7,5YR3/3","","","","firme","adhesivo","plástico","bloques subangulares","medios","moderado","","Ap","H","11008","claro","suave","","2447","C-12","120.0","","Depósitos aluviales","modal","2001-01-01","Grimillón","Altitud: 310 mts
+En superficie se observan trozos de basalto de 25-30 cm de diámetro. El Bt y 2BC1 se encuentran en parte gleizado (gris verdoso).
+Fuente: Inventario del Recurso Suelo del Departamento L.N. Alem
+Ed: Rubén E. Godagnone - Juan C. de la Fuente.
+
+Presencia de napa colgante.
+Datos analíticos: Fe2O3 (%): 
+Btcss: 0.004 - BCc: 0.004","true","e","","Cerro López. Brazo de Arroyo Guerrero","","","","-27.708333","-55.2375","Plano aluvial","","","","","ligera","hídrica","","","Guerrero","Grr","","Misiones","","Argiacuol típico","","","clase 0","","","","","1 - 3%","","clase 2","","6.06","30","0","RRR","franco arcillo arenoso"
+"","","20.59","24.8","","6.33","4.91","","16.0","4.35","0.07","0.175","35.23","1.08","0.12","18.4","28.9","11.3","10.63","5.5","4.4","4.04","","","","","","","4.21","83.0","","","35-45","","9.0","","","clhm +","","7,5YR3/3","","Fe Mn ++","","muy firme","muy adhesivo","muy plástico","prismas compuestos irregulares","medios","débil","Gravas f","Btc1","H","11009","claro","suave","","2447","C-12","120.0","","Depósitos aluviales","modal","2001-01-01","Grimillón","Altitud: 310 mts
+En superficie se observan trozos de basalto de 25-30 cm de diámetro. El Bt y 2BC1 se encuentran en parte gleizado (gris verdoso).
+Fuente: Inventario del Recurso Suelo del Departamento L.N. Alem
+Ed: Rubén E. Godagnone - Juan C. de la Fuente.
+
+Presencia de napa colgante.
+Datos analíticos: Fe2O3 (%): 
+Btcss: 0.004 - BCc: 0.004","true","e","","Cerro López. Brazo de Arroyo Guerrero","","","","-27.708333","-55.2375","Plano aluvial","","","","","ligera","hídrica","","","Guerrero","Grr","","Misiones","","Argiacuol típico","","","clase 0","","","","","1 - 3%","","clase 2","","6.33","48","30","","franco arcillo arenoso"
+"","","20.62","25.7","","5.94","4.32","","14.5","5.85","0.07","0.2","35.3","0.78","0.082","14.0","24.3","10.8","12.21","6.33","6.01","5.05","","","","","","","5.12","80.2","","","50-62","","9.5","","","clhm +","","10YR3/2","","FE Mn ++","","muy firme","muy adhesivo","muy plástico","prismas compuestos irregulares","medios","débil","gravas f c, + slck","Btc2","H","11010","gradual","suave","a s g ","2447","C-12","120.0","","Depósitos aluviales","modal","2001-01-01","Grimillón","Altitud: 310 mts
+En superficie se observan trozos de basalto de 25-30 cm de diámetro. El Bt y 2BC1 se encuentran en parte gleizado (gris verdoso).
+Fuente: Inventario del Recurso Suelo del Departamento L.N. Alem
+Ed: Rubén E. Godagnone - Juan C. de la Fuente.
+
+Presencia de napa colgante.
+Datos analíticos: Fe2O3 (%): 
+Btcss: 0.004 - BCc: 0.004","true","e","","Cerro López. Brazo de Arroyo Guerrero","","","","-27.708333","-55.2375","Plano aluvial","","","","","ligera","hídrica","","","Guerrero","Grr","","Misiones","","Argiacuol típico","","","clase 0","","","","","1 - 3%","","clase 2","","5.94","65","48","","franco arcillo arenoso"
+"","","20.1","26.1","","5.63","3.91","","13.14","6.45","0.07","0.21","35.05","0.68","0.132","13.0","24.03","11.05","12.32","6.85","5.01","5.69","","","","","","","5.95","77.0","","","68-85","","","0.43","","clhm ++","","10YR2/3","","FE Mn ++","","muy firme","muy adhesivo","muy plástico","bloques subangulares","gruesos","fuerte","++ slck","Btcss","H","11011","claro","suave","a s g ","2447","C-12","120.0","","Depósitos aluviales","modal","2001-01-01","Grimillón","Altitud: 310 mts
+En superficie se observan trozos de basalto de 25-30 cm de diámetro. El Bt y 2BC1 se encuentran en parte gleizado (gris verdoso).
+Fuente: Inventario del Recurso Suelo del Departamento L.N. Alem
+Ed: Rubén E. Godagnone - Juan C. de la Fuente.
+
+Presencia de napa colgante.
+Datos analíticos: Fe2O3 (%): 
+Btcss: 0.004 - BCc: 0.004","true","e","","Cerro López. Brazo de Arroyo Guerrero","","","","-27.708333","-55.2375","Plano aluvial","","","","","ligera","hídrica","","","Guerrero","Grr","","Misiones","","Argiacuol típico","","","clase 0","","","","","1 - 3%","","clase 2","","5.63","80","65","","franco arcillo arenoso"
+"","","22.1","27.6","","5.8","3.84","","14.45","7.25","0.06","0.36","28.3","","","17.2","28.48","11.21","11.83","7.8","6.65","5.73","","","","","","","5.52","80.6","","","95-110","","","0.95","","","","5Y4/1","","Fe Mn ++","","firme","adhesivo","plástico","","","","gravas ++, clasto basal alt","BCc","H-M","11012","abrupto","ondulado","a s g","2447","C-12","120.0","","Depósitos aluviales","modal","2001-01-01","Grimillón","Altitud: 310 mts
+En superficie se observan trozos de basalto de 25-30 cm de diámetro. El Bt y 2BC1 se encuentran en parte gleizado (gris verdoso).
+Fuente: Inventario del Recurso Suelo del Departamento L.N. Alem
+Ed: Rubén E. Godagnone - Juan C. de la Fuente.
+
+Presencia de napa colgante.
+Datos analíticos: Fe2O3 (%): 
+Btcss: 0.004 - BCc: 0.004","true","e","","Cerro López. Brazo de Arroyo Guerrero","","","","-27.708333","-55.2375","Plano aluvial","","","","","ligera","hídrica","","","Guerrero","Grr","","Misiones","","Argiacuol típico","","","clase 0","","","","","1 - 3%","","clase 2","","5.8","115","80","","franco arcillo arenoso"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","Basalto alterado","2Cr","","11013","","","","2447","C-12","120.0","","Depósitos aluviales","modal","2001-01-01","Grimillón","Altitud: 310 mts
+En superficie se observan trozos de basalto de 25-30 cm de diámetro. El Bt y 2BC1 se encuentran en parte gleizado (gris verdoso).
+Fuente: Inventario del Recurso Suelo del Departamento L.N. Alem
+Ed: Rubén E. Godagnone - Juan C. de la Fuente.
+
+Presencia de napa colgante.
+Datos analíticos: Fe2O3 (%): 
+Btcss: 0.004 - BCc: 0.004","true","e","","Cerro López. Brazo de Arroyo Guerrero","","","","-27.708333","-55.2375","Plano aluvial","","","","","ligera","hídrica","","","Guerrero","Grr","","Misiones","","Argiacuol típico","","","clase 0","","","","","1 - 3%","","clase 2","","","120","115","",""

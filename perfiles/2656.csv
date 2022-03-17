@@ -1,0 +1,89 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"20151","59.2","49.1","54.9","6.2","6.8","5.9","2400.0","26.2","17.1","4.0","1.8","50.7","15.34","1.184","20.7","38.4","5.5","5.2","0.2","","","","","0.0","","","","19.0","89.0","72.0","","0-7","","13.0","","","","","10YR 3/1","10YR 4/1","","duro","firme","adhesivo","plástico","bloques angulares","medios","fuerte","Grietas","A1","S","12155","abrupto","ondulado","","2656","16/385 C","","100.0","","modal","1974-12-05","Yerba del mosquito, trébol blanco, Agropiro, Malvilla, Duraznillo, Cardo negro aislado.","Entre los 125 y 132 cm, aparece una capa A1: pequeño O2 de 2 cm.
+
+Se observan en la base del B23 depósitos de material ferroso o férrico a lo largo de canalículos de antiguas raíces.
+
+En el horizonte III, sobre las cabezas de las columnas hay depositado un material franco arenoso fino. Tiene grietas de 1 cm que abarcan toda la longitud de esa capa.
+
+IV. En la parte superior se observan restos de conchilla y turritélidos.
+Depósitos de Fe a lo largo de las raíces. Color 5Y 5/4 en húmedo y 5Y 6/4 en seco.
+
+Débilmente salino desde los 90 cm.
+Alcalino desde los 25 cm.","true","s w","VII","Ea. Los Overos, a 6.5 km al NE de Gral. Conesa.","IR 098","3757-9-1","79","-36.479554","-57.278605","Llano","Tendido bajo","","seco fresco húmedo","no uniforme","","","","grado 0","El Tordillo","ETd","Es un suelo oscuro y profundo, de aptitud ganadera, se encuentra en una planicie amplia de antiguos canales de marea, en posición de “tendido” bajo, en la ""Subregión Geomorfológica Llanura Marina de la Bahía de Samborombón"", desarrollado sobre sedimentos marinos arcillosos poligenéticos, pobremente drenado, alcalinidad sódica después de los 30 cm, levemente salino a partir de los 10 cm, en pendientes que no superan el 0-0,5 %.","Buenos Aires","","Pelludert típico, muy fina, montmorillonítica, térmica","","","clase 2","ganadero","subnormal","muy lenta","lento","0 - 1%","clase 3","clase 2","tendido","8.2","7","0","3","arcilloso"
+"20152","56.1","44.1","43.5","7.2","8.0","6.7","780.0","20.1","15.7","3.2","1.5","59.3","2.75","0.297","19.9","34.7","3.3","2.6","0.1","","","","","0.0","","","1.67","8.5","100.0","84.0","","7-25","","9.0","","","Clhmsk +++","+","10YR 2/1","10YR 4/1","FeMn +","extremadamente duro","muy firme","muy adhesivo","muy plástico","columnar","muy gruesos","fuerte","Slck. Grietas","B21","S/F","12156","claro","irregular","","2656","16/385 C","","100.0","","modal","1974-12-05","Yerba del mosquito, trébol blanco, Agropiro, Malvilla, Duraznillo, Cardo negro aislado.","Entre los 125 y 132 cm, aparece una capa A1: pequeño O2 de 2 cm.
+
+Se observan en la base del B23 depósitos de material ferroso o férrico a lo largo de canalículos de antiguas raíces.
+
+En el horizonte III, sobre las cabezas de las columnas hay depositado un material franco arenoso fino. Tiene grietas de 1 cm que abarcan toda la longitud de esa capa.
+
+IV. En la parte superior se observan restos de conchilla y turritélidos.
+Depósitos de Fe a lo largo de las raíces. Color 5Y 5/4 en húmedo y 5Y 6/4 en seco.
+
+Débilmente salino desde los 90 cm.
+Alcalino desde los 25 cm.","true","s w","VII","Ea. Los Overos, a 6.5 km al NE de Gral. Conesa.","IR 098","3757-9-1","79","-36.479554","-57.278605","Llano","Tendido bajo","","seco fresco húmedo","no uniforme","","","","grado 0","El Tordillo","ETd","Es un suelo oscuro y profundo, de aptitud ganadera, se encuentra en una planicie amplia de antiguos canales de marea, en posición de “tendido” bajo, en la ""Subregión Geomorfológica Llanura Marina de la Bahía de Samborombón"", desarrollado sobre sedimentos marinos arcillosos poligenéticos, pobremente drenado, alcalinidad sódica después de los 30 cm, levemente salino a partir de los 10 cm, en pendientes que no superan el 0-0,5 %.","Buenos Aires","","Pelludert típico, muy fina, montmorillonítica, térmica","","","clase 2","ganadero","subnormal","muy lenta","lento","0 - 1%","clase 3","clase 2","tendido","8.4","25","7","2","arcilloso"
+"20153","87.8","","38.6","7.9","8.7","7.3","510.0","","","3.1","10.1","74.1","0.48","0.064","16.5","20.3","2.7","1.3","0.1","","","","","1.5","","","2.92","","","","","25-42","","8.0","","","Clsk ++","++","5Y 4/2","5Y 5.5/2","FeMn ++","extremadamente duro","firme","adhesivo","plástico","prismas compuestos irregulares","gruesos","fuerte","Slck. Grietas","IIB22","F","12157","claro","suave","CMP","2656","16/385 C","","100.0","","modal","1974-12-05","Yerba del mosquito, trébol blanco, Agropiro, Malvilla, Duraznillo, Cardo negro aislado.","Entre los 125 y 132 cm, aparece una capa A1: pequeño O2 de 2 cm.
+
+Se observan en la base del B23 depósitos de material ferroso o férrico a lo largo de canalículos de antiguas raíces.
+
+En el horizonte III, sobre las cabezas de las columnas hay depositado un material franco arenoso fino. Tiene grietas de 1 cm que abarcan toda la longitud de esa capa.
+
+IV. En la parte superior se observan restos de conchilla y turritélidos.
+Depósitos de Fe a lo largo de las raíces. Color 5Y 5/4 en húmedo y 5Y 6/4 en seco.
+
+Débilmente salino desde los 90 cm.
+Alcalino desde los 25 cm.","true","s w","VII","Ea. Los Overos, a 6.5 km al NE de Gral. Conesa.","IR 098","3757-9-1","79","-36.479554","-57.278605","Llano","Tendido bajo","","seco fresco húmedo","no uniforme","","","","grado 0","El Tordillo","ETd","Es un suelo oscuro y profundo, de aptitud ganadera, se encuentra en una planicie amplia de antiguos canales de marea, en posición de “tendido” bajo, en la ""Subregión Geomorfológica Llanura Marina de la Bahía de Samborombón"", desarrollado sobre sedimentos marinos arcillosos poligenéticos, pobremente drenado, alcalinidad sódica después de los 30 cm, levemente salino a partir de los 10 cm, en pendientes que no superan el 0-0,5 %.","Buenos Aires","","Pelludert típico, muy fina, montmorillonítica, térmica","","","clase 2","ganadero","subnormal","muy lenta","lento","0 - 1%","clase 3","clase 2","tendido","8.8","42","25","2","arcilloso"
+"20154","73.2","","37.8","8.1","9.2","7.6","1000.0","","","2.8","12.6","60.3","0.25","","17.8","32.2","2.9","1.2","0.1","","","","","3.3","","","3.08","","","","","42-89","","","","","Clsk ++ (2.5Y 4/2)","++","5Y 6/2","5Y 5.5/2","FeMn +++","extremadamente duro","firme","adhesivo","plástico","prismas compuestos regulares","gruesos","fuerte","Slck","IIB23","F","12158","abrupto","suave","CGP","2656","16/385 C","","100.0","","modal","1974-12-05","Yerba del mosquito, trébol blanco, Agropiro, Malvilla, Duraznillo, Cardo negro aislado.","Entre los 125 y 132 cm, aparece una capa A1: pequeño O2 de 2 cm.
+
+Se observan en la base del B23 depósitos de material ferroso o férrico a lo largo de canalículos de antiguas raíces.
+
+En el horizonte III, sobre las cabezas de las columnas hay depositado un material franco arenoso fino. Tiene grietas de 1 cm que abarcan toda la longitud de esa capa.
+
+IV. En la parte superior se observan restos de conchilla y turritélidos.
+Depósitos de Fe a lo largo de las raíces. Color 5Y 5/4 en húmedo y 5Y 6/4 en seco.
+
+Débilmente salino desde los 90 cm.
+Alcalino desde los 25 cm.","true","s w","VII","Ea. Los Overos, a 6.5 km al NE de Gral. Conesa.","IR 098","3757-9-1","79","-36.479554","-57.278605","Llano","Tendido bajo","","seco fresco húmedo","no uniforme","","","","grado 0","El Tordillo","ETd","Es un suelo oscuro y profundo, de aptitud ganadera, se encuentra en una planicie amplia de antiguos canales de marea, en posición de “tendido” bajo, en la ""Subregión Geomorfológica Llanura Marina de la Bahía de Samborombón"", desarrollado sobre sedimentos marinos arcillosos poligenéticos, pobremente drenado, alcalinidad sódica después de los 30 cm, levemente salino a partir de los 10 cm, en pendientes que no superan el 0-0,5 %.","Buenos Aires","","Pelludert típico, muy fina, montmorillonítica, térmica","","","clase 2","ganadero","subnormal","muy lenta","lento","0 - 1%","clase 3","clase 2","tendido","8.8","89","42","2","arcilloso"
+"20155","54.8","","29.1","8.2","9.3","7.7","480.0","","","2.0","11.1","49.1","","","20.0","42.3","3.1","2.4","0.1","","","","","3.0","","","4.88","","","","","89-108","","","","","Clsk ++ (2.5Y 4/2)","++","5Y 5/2","5Y 6/2","","extremadamente duro","firme","adhesivo","plástico","columnar","gruesos","fuerte","Slck","III","F","12159","abrupto","suave","AGP","2656","16/385 C","","100.0","","modal","1974-12-05","Yerba del mosquito, trébol blanco, Agropiro, Malvilla, Duraznillo, Cardo negro aislado.","Entre los 125 y 132 cm, aparece una capa A1: pequeño O2 de 2 cm.
+
+Se observan en la base del B23 depósitos de material ferroso o férrico a lo largo de canalículos de antiguas raíces.
+
+En el horizonte III, sobre las cabezas de las columnas hay depositado un material franco arenoso fino. Tiene grietas de 1 cm que abarcan toda la longitud de esa capa.
+
+IV. En la parte superior se observan restos de conchilla y turritélidos.
+Depósitos de Fe a lo largo de las raíces. Color 5Y 5/4 en húmedo y 5Y 6/4 en seco.
+
+Débilmente salino desde los 90 cm.
+Alcalino desde los 25 cm.","true","s w","VII","Ea. Los Overos, a 6.5 km al NE de Gral. Conesa.","IR 098","3757-9-1","79","-36.479554","-57.278605","Llano","Tendido bajo","","seco fresco húmedo","no uniforme","","","","grado 0","El Tordillo","ETd","Es un suelo oscuro y profundo, de aptitud ganadera, se encuentra en una planicie amplia de antiguos canales de marea, en posición de “tendido” bajo, en la ""Subregión Geomorfológica Llanura Marina de la Bahía de Samborombón"", desarrollado sobre sedimentos marinos arcillosos poligenéticos, pobremente drenado, alcalinidad sódica después de los 30 cm, levemente salino a partir de los 10 cm, en pendientes que no superan el 0-0,5 %.","Buenos Aires","","Pelludert típico, muy fina, montmorillonítica, térmica","","","clase 2","ganadero","subnormal","muy lenta","lento","0 - 1%","clase 3","clase 2","tendido","9.0","108","89","2","arcilloso"
+"20156","33.4","","21.6","8.3","9.4","7.8","450.0","","","1.9","8.1","39.9","","","17.9","49.1","5.6","1.5","0.2","","","","","3.7","","","5.57","","","","","108-125","","","","","Clsk +","+++","5Y 5/2","5Y 5/2","","duro","friable","ligeramente adhesivo","plástico","laminar","gruesos","","Restos de almejas","IV","F","12160","abrupto","suave","AGP","2656","16/385 C","","100.0","","modal","1974-12-05","Yerba del mosquito, trébol blanco, Agropiro, Malvilla, Duraznillo, Cardo negro aislado.","Entre los 125 y 132 cm, aparece una capa A1: pequeño O2 de 2 cm.
+
+Se observan en la base del B23 depósitos de material ferroso o férrico a lo largo de canalículos de antiguas raíces.
+
+En el horizonte III, sobre las cabezas de las columnas hay depositado un material franco arenoso fino. Tiene grietas de 1 cm que abarcan toda la longitud de esa capa.
+
+IV. En la parte superior se observan restos de conchilla y turritélidos.
+Depósitos de Fe a lo largo de las raíces. Color 5Y 5/4 en húmedo y 5Y 6/4 en seco.
+
+Débilmente salino desde los 90 cm.
+Alcalino desde los 25 cm.","true","s w","VII","Ea. Los Overos, a 6.5 km al NE de Gral. Conesa.","IR 098","3757-9-1","79","-36.479554","-57.278605","Llano","Tendido bajo","","seco fresco húmedo","no uniforme","","","","grado 0","El Tordillo","ETd","Es un suelo oscuro y profundo, de aptitud ganadera, se encuentra en una planicie amplia de antiguos canales de marea, en posición de “tendido” bajo, en la ""Subregión Geomorfológica Llanura Marina de la Bahía de Samborombón"", desarrollado sobre sedimentos marinos arcillosos poligenéticos, pobremente drenado, alcalinidad sódica después de los 30 cm, levemente salino a partir de los 10 cm, en pendientes que no superan el 0-0,5 %.","Buenos Aires","","Pelludert típico, muy fina, montmorillonítica, térmica","","","clase 2","ganadero","subnormal","muy lenta","lento","0 - 1%","clase 3","clase 2","tendido","9.2","125","108","1","franco arcillo limoso"
+"20157","71.6","","30.5","8.3","9.4","7.9","320.0","","","2.6","13.2","60.1","","","16.8","33.6","1.7","0.5","0.1","","","","","4.0","","","6.6","","","","","125-132","","","","","","++","5Y 5/2","","","extremadamente duro","firme","adhesivo","plástico","prismas","gruesos","fuerte","","V","F","12161","abrupto","suave","AGP (5Y 5/4)","2656","16/385 C","","100.0","","modal","1974-12-05","Yerba del mosquito, trébol blanco, Agropiro, Malvilla, Duraznillo, Cardo negro aislado.","Entre los 125 y 132 cm, aparece una capa A1: pequeño O2 de 2 cm.
+
+Se observan en la base del B23 depósitos de material ferroso o férrico a lo largo de canalículos de antiguas raíces.
+
+En el horizonte III, sobre las cabezas de las columnas hay depositado un material franco arenoso fino. Tiene grietas de 1 cm que abarcan toda la longitud de esa capa.
+
+IV. En la parte superior se observan restos de conchilla y turritélidos.
+Depósitos de Fe a lo largo de las raíces. Color 5Y 5/4 en húmedo y 5Y 6/4 en seco.
+
+Débilmente salino desde los 90 cm.
+Alcalino desde los 25 cm.","true","s w","VII","Ea. Los Overos, a 6.5 km al NE de Gral. Conesa.","IR 098","3757-9-1","79","-36.479554","-57.278605","Llano","Tendido bajo","","seco fresco húmedo","no uniforme","","","","grado 0","El Tordillo","ETd","Es un suelo oscuro y profundo, de aptitud ganadera, se encuentra en una planicie amplia de antiguos canales de marea, en posición de “tendido” bajo, en la ""Subregión Geomorfológica Llanura Marina de la Bahía de Samborombón"", desarrollado sobre sedimentos marinos arcillosos poligenéticos, pobremente drenado, alcalinidad sódica después de los 30 cm, levemente salino a partir de los 10 cm, en pendientes que no superan el 0-0,5 %.","Buenos Aires","","Pelludert típico, muy fina, montmorillonítica, térmica","","","clase 2","ganadero","subnormal","muy lenta","lento","0 - 1%","clase 3","clase 2","tendido","8.8","132","125","","arcilloso"
+"20158","25.6","","22.3","8.1","9.1","7.8","300.0","","","1.8","9.5","28.6","","","17.7","43.7","16.3","7.6","0.1","","","","","3.7","","","5.32","","","","","132-140","","","","","","+++","10YR 5/3","","","","friable","ligeramente adhesivo","ligeramente plástico","laminar","","","Restos de conchilla","VI","F/H","12162","","","AGP","2656","16/385 C","","100.0","","modal","1974-12-05","Yerba del mosquito, trébol blanco, Agropiro, Malvilla, Duraznillo, Cardo negro aislado.","Entre los 125 y 132 cm, aparece una capa A1: pequeño O2 de 2 cm.
+
+Se observan en la base del B23 depósitos de material ferroso o férrico a lo largo de canalículos de antiguas raíces.
+
+En el horizonte III, sobre las cabezas de las columnas hay depositado un material franco arenoso fino. Tiene grietas de 1 cm que abarcan toda la longitud de esa capa.
+
+IV. En la parte superior se observan restos de conchilla y turritélidos.
+Depósitos de Fe a lo largo de las raíces. Color 5Y 5/4 en húmedo y 5Y 6/4 en seco.
+
+Débilmente salino desde los 90 cm.
+Alcalino desde los 25 cm.","true","s w","VII","Ea. Los Overos, a 6.5 km al NE de Gral. Conesa.","IR 098","3757-9-1","79","-36.479554","-57.278605","Llano","Tendido bajo","","seco fresco húmedo","no uniforme","","","","grado 0","El Tordillo","ETd","Es un suelo oscuro y profundo, de aptitud ganadera, se encuentra en una planicie amplia de antiguos canales de marea, en posición de “tendido” bajo, en la ""Subregión Geomorfológica Llanura Marina de la Bahía de Samborombón"", desarrollado sobre sedimentos marinos arcillosos poligenéticos, pobremente drenado, alcalinidad sódica después de los 30 cm, levemente salino a partir de los 10 cm, en pendientes que no superan el 0-0,5 %.","Buenos Aires","","Pelludert típico, muy fina, montmorillonítica, térmica","","","clase 2","ganadero","subnormal","muy lenta","lento","0 - 1%","clase 3","clase 2","tendido","9.0","140","132","","franco limoso"

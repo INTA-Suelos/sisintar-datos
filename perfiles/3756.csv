@@ -1,0 +1,73 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"20158","","","","","","","","","","","","","30.82","1.04","","","","","","","","","","","","","","","","","","0","","28.3","","","","","","","","","","","","","","","","Aoo","","16971","abrupto","","","3756","756/13","","","Arenas y gravillas","no modal","1962-02-27","Bosque de lengas de hasta 15m","Drenaje: bueno
+Permeabilidad: buena
+Pedregosidad: muy escasa en el perfil
+Pendiente: muy escasa
+Agua subt: muy escasa
+Aspecto: casi llano
+Raíces: abundantes sobre todo en el B2
+Erosión: no se obreserva
+No hay Hz A1 y casi no hay Ao. Bajo el mantillo ya aparece el A2. Parece estar desarmado sobre sedimentos sueltos morrénicos. Aluviales de la sierra
+Hz Aoo: profundidad de -4 a 0cm
+Hz A2: emite lenguas hacia el B
+Hz D: arena muy gruesa y gravillas de minerales verdosos y negros","true","","","Cabecera del lago Fagnano, entre laguna Indio y Río Valdez","","","","-54.583333","-67.266667","Meseta aluvial de los cerros","Llano","","fresco","","","","","","Perfil n° 756/13","","","Tierra del Fuego","","","","","","","","","","","","","","","0","0","",""
+"20159","20.25","11.4","21.8","3.9","","","","","","","","15.76","3.51","0.16","","43.33","5.72","3.7","8.32","17.8","5.18","","","0.0","","","","","52.3","","","0-5","","21.9","","","","","7.5YR 5/2","7.5YR 7/2","","suelto","friable","","","bloques subangulares","","","","A2","","16972","claro","irregular","","3756","756/13","","","Arenas y gravillas","no modal","1962-02-27","Bosque de lengas de hasta 15m","Drenaje: bueno
+Permeabilidad: buena
+Pedregosidad: muy escasa en el perfil
+Pendiente: muy escasa
+Agua subt: muy escasa
+Aspecto: casi llano
+Raíces: abundantes sobre todo en el B2
+Erosión: no se obreserva
+No hay Hz A1 y casi no hay Ao. Bajo el mantillo ya aparece el A2. Parece estar desarmado sobre sedimentos sueltos morrénicos. Aluviales de la sierra
+Hz Aoo: profundidad de -4 a 0cm
+Hz A2: emite lenguas hacia el B
+Hz D: arena muy gruesa y gravillas de minerales verdosos y negros","true","","","Cabecera del lago Fagnano, entre laguna Indio y Río Valdez","","","","-54.583333","-67.266667","Meseta aluvial de los cerros","Llano","","fresco","","","","","","Perfil n° 756/13","","","Tierra del Fuego","","","","","","","","","","","","","","","5","0","","franco"
+"20160","29.75","12.4","30.8","4.0","","","","","","","","16.97","10.16","0.21","","36.68","5.12","3.63","15.32","25.34","4.18","","","0.0","","","","","40.2","","","5-15","","42.3","","","","","7.5YR 4/2","7.5YR 5/4","","suelto","friable","","","bloques subangulares","muy finos","","","B2","","16973","claro","","","3756","756/13","","","Arenas y gravillas","no modal","1962-02-27","Bosque de lengas de hasta 15m","Drenaje: bueno
+Permeabilidad: buena
+Pedregosidad: muy escasa en el perfil
+Pendiente: muy escasa
+Agua subt: muy escasa
+Aspecto: casi llano
+Raíces: abundantes sobre todo en el B2
+Erosión: no se obreserva
+No hay Hz A1 y casi no hay Ao. Bajo el mantillo ya aparece el A2. Parece estar desarmado sobre sedimentos sueltos morrénicos. Aluviales de la sierra
+Hz Aoo: profundidad de -4 a 0cm
+Hz A2: emite lenguas hacia el B
+Hz D: arena muy gruesa y gravillas de minerales verdosos y negros","true","","","Cabecera del lago Fagnano, entre laguna Indio y Río Valdez","","","","-54.583333","-67.266667","Meseta aluvial de los cerros","Llano","","fresco","","","","","","Perfil n° 756/13","","","Tierra del Fuego","","","","","","","","","","","","","","","15","5","","franco"
+"20161","8.05","11.09","11.09","4.1","","","","","","","","7.02","1.08","0.08","","13.29","0.73","1.08","17.92","46.57","9.81","","","0.0","","","","","100.0","","","15-25","","13.5","","","","","","","","","","","","","","","","B3","","16974","claro","","","3756","756/13","","","Arenas y gravillas","no modal","1962-02-27","Bosque de lengas de hasta 15m","Drenaje: bueno
+Permeabilidad: buena
+Pedregosidad: muy escasa en el perfil
+Pendiente: muy escasa
+Agua subt: muy escasa
+Aspecto: casi llano
+Raíces: abundantes sobre todo en el B2
+Erosión: no se obreserva
+No hay Hz A1 y casi no hay Ao. Bajo el mantillo ya aparece el A2. Parece estar desarmado sobre sedimentos sueltos morrénicos. Aluviales de la sierra
+Hz Aoo: profundidad de -4 a 0cm
+Hz A2: emite lenguas hacia el B
+Hz D: arena muy gruesa y gravillas de minerales verdosos y negros","true","","","Cabecera del lago Fagnano, entre laguna Indio y Río Valdez","","","","-54.583333","-67.266667","Meseta aluvial de los cerros","Llano","","fresco","","","","","","Perfil n° 756/13","","","Tierra del Fuego","","","","","","","","","","","","","","","25","15","",""
+"20162","2.8","8.79","8.79","4.4","","","","","","","","2.2","0.19","0.06","","1.44","0.05","0.19","20.6","66.77","7.84","","","0.0","","","","","100.0","","","24-40","","3.2","","","","","","","","","","","","grano suelto","","","","Cg","","16975","","","","3756","756/13","","","Arenas y gravillas","no modal","1962-02-27","Bosque de lengas de hasta 15m","Drenaje: bueno
+Permeabilidad: buena
+Pedregosidad: muy escasa en el perfil
+Pendiente: muy escasa
+Agua subt: muy escasa
+Aspecto: casi llano
+Raíces: abundantes sobre todo en el B2
+Erosión: no se obreserva
+No hay Hz A1 y casi no hay Ao. Bajo el mantillo ya aparece el A2. Parece estar desarmado sobre sedimentos sueltos morrénicos. Aluviales de la sierra
+Hz Aoo: profundidad de -4 a 0cm
+Hz A2: emite lenguas hacia el B
+Hz D: arena muy gruesa y gravillas de minerales verdosos y negros","true","","","Cabecera del lago Fagnano, entre laguna Indio y Río Valdez","","","","-54.583333","-67.266667","Meseta aluvial de los cerros","Llano","","fresco","","","","","","Perfil n° 756/13","","","Tierra del Fuego","","","","","","","","","","","","","","","40","25","","arenoso"
+"20163","1.58","8.79","8.79","4.9","","","","","","","","1.63","0.15","0.04","","0.98","0.06","0.21","13.41","64.73","18.49","","","0.0","","","","","100.0","","","40-50","","3.8","","","","","","","","","","","","grano suelto","","","","D","","16976","","","","3756","756/13","","","Arenas y gravillas","no modal","1962-02-27","Bosque de lengas de hasta 15m","Drenaje: bueno
+Permeabilidad: buena
+Pedregosidad: muy escasa en el perfil
+Pendiente: muy escasa
+Agua subt: muy escasa
+Aspecto: casi llano
+Raíces: abundantes sobre todo en el B2
+Erosión: no se obreserva
+No hay Hz A1 y casi no hay Ao. Bajo el mantillo ya aparece el A2. Parece estar desarmado sobre sedimentos sueltos morrénicos. Aluviales de la sierra
+Hz Aoo: profundidad de -4 a 0cm
+Hz A2: emite lenguas hacia el B
+Hz D: arena muy gruesa y gravillas de minerales verdosos y negros","true","","","Cabecera del lago Fagnano, entre laguna Indio y Río Valdez","","","","-54.583333","-67.266667","Meseta aluvial de los cerros","Llano","","fresco","","","","","","Perfil n° 756/13","","","Tierra del Fuego","","","","","","","","","","","","","","","50","40","","arenoso"

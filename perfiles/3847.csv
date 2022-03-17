@@ -1,0 +1,56 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"18788","45.45","","","","","","","","","","","8.0","8.68","0.64","","9.5","11.2","1.7","0.25","0.0","0.0","","","47.5","","","","","","","","0-7","","","","","","","10 YR 4/4","10 YR 5/4","","","muy friable","adhesivo","plástico","masiva","","","","A11","","17344","abrupto","ondulado","","3847","605/27","","","Sedimentos palustres turbosos","no modal","1959-02-17","Ciperáceas, gramíneas. Al pie del cerro: mata negra y coirones","Drenaje: moderado a impedido
+Elevación: 700 snm
+Agua subt: cerca
+Pedregosidad: no se observa
+Aspecto: llano
+Hz.A11: maraña de raíces con aspecto esponjoso
+Hz. A12: maraña de raíces
+Hz. A13: escasas raíces, restos de conchillas palustres
+Hz. D2: escasas raíces, con vetas de materiales de distintos colores.
+Raíces: muy abundantes hasta los 20cm (turboso)
+Permeabilidad: moderada a mala","true","","","Estancia Las Barrancas, a 70km al SW de Colonia Las Heras","","","","-47.783333","-68.433333","En la vega, al pie de cerros basálticos (cañadón)","Plano","","húmedo","","nula","","","","Perfil n° 605/27","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","8.0","7","0","","franco arenoso"
+"18789","45.6","","","","","","","","","","","7.9","4.75","0.36","","16.5","12.15","1.75","0.3","0.0","0.0","","","39.7","","","","","","","","7-25","","","","","","","10 YR 3/1","10 YR 3/1","","blando","muy friable","adhesivo","plástico","masiva","","","","A12","","17345","difuso","","","3847","605/27","","","Sedimentos palustres turbosos","no modal","1959-02-17","Ciperáceas, gramíneas. Al pie del cerro: mata negra y coirones","Drenaje: moderado a impedido
+Elevación: 700 snm
+Agua subt: cerca
+Pedregosidad: no se observa
+Aspecto: llano
+Hz.A11: maraña de raíces con aspecto esponjoso
+Hz. A12: maraña de raíces
+Hz. A13: escasas raíces, restos de conchillas palustres
+Hz. D2: escasas raíces, con vetas de materiales de distintos colores.
+Raíces: muy abundantes hasta los 20cm (turboso)
+Permeabilidad: moderada a mala","true","","","Estancia Las Barrancas, a 70km al SW de Colonia Las Heras","","","","-47.783333","-68.433333","En la vega, al pie de cerros basálticos (cañadón)","Plano","","húmedo","","nula","","","","Perfil n° 605/27","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","8.2","25","7","","franco arcillo arenoso"
+"18790","39.2","","","","","","","","","","","8.0","1.77","0.07","","14.8","9.95","3.45","0.6","0.0","0.0","","","49.8","","","","","","","","25-50","","","","","","","10 YR 5/1","10 YR 5/1","","blando","muy friable","adhesivo","plástico","masiva","","","","A13","","17346","abrupto","","","3847","605/27","","","Sedimentos palustres turbosos","no modal","1959-02-17","Ciperáceas, gramíneas. Al pie del cerro: mata negra y coirones","Drenaje: moderado a impedido
+Elevación: 700 snm
+Agua subt: cerca
+Pedregosidad: no se observa
+Aspecto: llano
+Hz.A11: maraña de raíces con aspecto esponjoso
+Hz. A12: maraña de raíces
+Hz. A13: escasas raíces, restos de conchillas palustres
+Hz. D2: escasas raíces, con vetas de materiales de distintos colores.
+Raíces: muy abundantes hasta los 20cm (turboso)
+Permeabilidad: moderada a mala","true","","","Estancia Las Barrancas, a 70km al SW de Colonia Las Heras","","","","-47.783333","-68.433333","En la vega, al pie de cerros basálticos (cañadón)","Plano","","húmedo","","nula","","","","Perfil n° 605/27","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","8.4","50","25","","franco arcillo arenoso"
+"18791","25.88","","","","","","","","","","","8.5","0.44","","","14.9","48.45","1.05","3.3","0.15","0.0","","","12.5","","","","","","","","50-59","","","","","","","2.5 Y 7/2","2.5 Y 7/2","","suelto","","no adhesivo","ligeramente plástico","","","","","D1","","17347","abrupto","","","3847","605/27","","","Sedimentos palustres turbosos","no modal","1959-02-17","Ciperáceas, gramíneas. Al pie del cerro: mata negra y coirones","Drenaje: moderado a impedido
+Elevación: 700 snm
+Agua subt: cerca
+Pedregosidad: no se observa
+Aspecto: llano
+Hz.A11: maraña de raíces con aspecto esponjoso
+Hz. A12: maraña de raíces
+Hz. A13: escasas raíces, restos de conchillas palustres
+Hz. D2: escasas raíces, con vetas de materiales de distintos colores.
+Raíces: muy abundantes hasta los 20cm (turboso)
+Permeabilidad: moderada a mala","true","","","Estancia Las Barrancas, a 70km al SW de Colonia Las Heras","","","","-47.783333","-68.433333","En la vega, al pie de cerros basálticos (cañadón)","Plano","","húmedo","","nula","","","","Perfil n° 605/27","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","8.4","59","50","","franco arenoso"
+"18792","41.8","","","","","","","","","","","8.1","0.94","","","16.0","11.65","2.85","0.6","0.0","0.0","","","48.2","","","","","","","","59-80","","","","","","","10 YR 6/1","10 YR 6/1","","","","","","masiva","","","","D2","","17348","","","","3847","605/27","","","Sedimentos palustres turbosos","no modal","1959-02-17","Ciperáceas, gramíneas. Al pie del cerro: mata negra y coirones","Drenaje: moderado a impedido
+Elevación: 700 snm
+Agua subt: cerca
+Pedregosidad: no se observa
+Aspecto: llano
+Hz.A11: maraña de raíces con aspecto esponjoso
+Hz. A12: maraña de raíces
+Hz. A13: escasas raíces, restos de conchillas palustres
+Hz. D2: escasas raíces, con vetas de materiales de distintos colores.
+Raíces: muy abundantes hasta los 20cm (turboso)
+Permeabilidad: moderada a mala","true","","","Estancia Las Barrancas, a 70km al SW de Colonia Las Heras","","","","-47.783333","-68.433333","En la vega, al pie de cerros basálticos (cañadón)","Plano","","húmedo","","nula","","","","Perfil n° 605/27","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","8.4","80","59","","franco arenoso"

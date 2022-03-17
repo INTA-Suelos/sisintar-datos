@@ -1,0 +1,79 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"18823","27.15","27.6","29.7","7.0","","","","17.8","7.1","1.7","1.0","22.5","4.05","0.2","","12.8","24.9","15.65","8.4","5.35","3.4","","","0.0","","","","2.1","","","","0-7","","","","","","","10 YR 4/2","10 YR 5/2","","","friable","ligeramente adhesivo","ligeramente plástico","","","","","A11","","17594","gradual","","","3890","605/37","","40.0","Rodados tehuelches","no modal","1959-02-25","Mata piedra, coirón, mata  negra","Drenaje: bueno
+Pedreg: superf 60%
+Aspecto: ondulado
+Erosión: natural
+Raíces: abundantes hasta los 15cm
+Permeab: buena
+Molinos en las lomadas (con agua, veget verde)
+Hz.A11: 80% rodados, maraña de raicillas
+Hz.A12: abundantes raicillas (menos que el anterior) 80% rodados de hasta 12cm
+Hz.B2: raíces gruesas, 40% rodados de hasta 12cm, muchos trocitos raicillas muertas y muchas clay skins, y algunos slickensides
+B3ca: rodados 60%, con clay skins (menos que el anterior), límite de raíces
+Hz.C1: 80-90% rodados (algo raíces)
+Hz.C2: rodados tehuelches cementados alternan con camadas de rodados y arenas)","true","","","5km al S de Lemarchand en ruta 3 hacia Río Gallegos","","","","-50.966667","-69.5","Llanura ondulada (cerrillada en la terraza alta)","Convexo","","seco fresco","","","","","","Perfil n° 605/37","","","Santa Cruz","","","","","","","","","","","","","","7.0","7","0","","franco"
+"18824","22.45","26.4","28.5","6.0","","","","16.0","6.5","0.6","3.3","26.8","1.84","0.12","","14.1","28.3","16.25","6.15","3.0","2.25","","","0.0","","","","2.1","","","","7-19","","","","","","","10 YR 4/2","10 YR 4/2","","","muy friable","ligeramente adhesivo","ligeramente plástico","granular","","","","A12","","17595","abrupto","","","3890","605/37","","40.0","Rodados tehuelches","no modal","1959-02-25","Mata piedra, coirón, mata  negra","Drenaje: bueno
+Pedreg: superf 60%
+Aspecto: ondulado
+Erosión: natural
+Raíces: abundantes hasta los 15cm
+Permeab: buena
+Molinos en las lomadas (con agua, veget verde)
+Hz.A11: 80% rodados, maraña de raicillas
+Hz.A12: abundantes raicillas (menos que el anterior) 80% rodados de hasta 12cm
+Hz.B2: raíces gruesas, 40% rodados de hasta 12cm, muchos trocitos raicillas muertas y muchas clay skins, y algunos slickensides
+B3ca: rodados 60%, con clay skins (menos que el anterior), límite de raíces
+Hz.C1: 80-90% rodados (algo raíces)
+Hz.C2: rodados tehuelches cementados alternan con camadas de rodados y arenas)","true","","","5km al S de Lemarchand en ruta 3 hacia Río Gallegos","","","","-50.966667","-69.5","Llanura ondulada (cerrillada en la terraza alta)","Convexo","","seco fresco","","","","","","Perfil n° 605/37","","","Santa Cruz","","","","","","","","","","","","","","6.6","18","7","","franco"
+"18824","45.9","23.3","25.4","7.6","","","","17.7","3.4","0.4","1.8","56.35","1.33","0.03","","14.2","13.65","20.1","10.45","1.95","1.0","","","0.0","","","","2.1","","","","19-43","","","","","","","5 YR 4/3","7.5 YR 3/2","","duro","muy firme","adhesivo","plástico","prismas","medios","","","B2","","17596","claro","","","3890","605/37","","40.0","Rodados tehuelches","no modal","1959-02-25","Mata piedra, coirón, mata  negra","Drenaje: bueno
+Pedreg: superf 60%
+Aspecto: ondulado
+Erosión: natural
+Raíces: abundantes hasta los 15cm
+Permeab: buena
+Molinos en las lomadas (con agua, veget verde)
+Hz.A11: 80% rodados, maraña de raicillas
+Hz.A12: abundantes raicillas (menos que el anterior) 80% rodados de hasta 12cm
+Hz.B2: raíces gruesas, 40% rodados de hasta 12cm, muchos trocitos raicillas muertas y muchas clay skins, y algunos slickensides
+B3ca: rodados 60%, con clay skins (menos que el anterior), límite de raíces
+Hz.C1: 80-90% rodados (algo raíces)
+Hz.C2: rodados tehuelches cementados alternan con camadas de rodados y arenas)","true","","","5km al S de Lemarchand en ruta 3 hacia Río Gallegos","","","","-50.966667","-69.5","Llanura ondulada (cerrillada en la terraza alta)","Convexo","","seco fresco","","","","","","Perfil n° 605/37","","","Santa Cruz","","","","","","","","","","","","","","6.8","43","19","","arcilloso"
+"18826","47.1","77.5","77.5","7.8","","","","44.4","22.6","1.6","8.9","16.6","1.63","0.08","","10.15","29.45","9.1","11.95","5.45","4.25","","","0.25","","","","0.0","","","","43-58","","","","","","","7.5 YR 5/2","","","blando","firme","adhesivo","plástico","bloques angulares","finos","","","B3ca","","17597","abrupto","","","3890","605/37","","40.0","Rodados tehuelches","no modal","1959-02-25","Mata piedra, coirón, mata  negra","Drenaje: bueno
+Pedreg: superf 60%
+Aspecto: ondulado
+Erosión: natural
+Raíces: abundantes hasta los 15cm
+Permeab: buena
+Molinos en las lomadas (con agua, veget verde)
+Hz.A11: 80% rodados, maraña de raicillas
+Hz.A12: abundantes raicillas (menos que el anterior) 80% rodados de hasta 12cm
+Hz.B2: raíces gruesas, 40% rodados de hasta 12cm, muchos trocitos raicillas muertas y muchas clay skins, y algunos slickensides
+B3ca: rodados 60%, con clay skins (menos que el anterior), límite de raíces
+Hz.C1: 80-90% rodados (algo raíces)
+Hz.C2: rodados tehuelches cementados alternan con camadas de rodados y arenas)","true","","","5km al S de Lemarchand en ruta 3 hacia Río Gallegos","","","","-50.966667","-69.5","Llanura ondulada (cerrillada en la terraza alta)","Convexo","","seco fresco","","","","","","Perfil n° 605/37","","","Santa Cruz","","","","","","","","","","","","","","8.2","58","43","","franco arcilloso"
+"18827","40.4","","","8.3","","","","","","","","9.25","1.23","0.05","","14.55","15.1","8.5","8.75","6.15","5.35","","","30.25","","","","","","","","58-77","","","","","","","10 YR 7/3","10 YR 8/2","","blando","friable","adhesivo","plástico","masiva","","","","C1","","17598","gradual","","","3890","605/37","","40.0","Rodados tehuelches","no modal","1959-02-25","Mata piedra, coirón, mata  negra","Drenaje: bueno
+Pedreg: superf 60%
+Aspecto: ondulado
+Erosión: natural
+Raíces: abundantes hasta los 15cm
+Permeab: buena
+Molinos en las lomadas (con agua, veget verde)
+Hz.A11: 80% rodados, maraña de raicillas
+Hz.A12: abundantes raicillas (menos que el anterior) 80% rodados de hasta 12cm
+Hz.B2: raíces gruesas, 40% rodados de hasta 12cm, muchos trocitos raicillas muertas y muchas clay skins, y algunos slickensides
+B3ca: rodados 60%, con clay skins (menos que el anterior), límite de raíces
+Hz.C1: 80-90% rodados (algo raíces)
+Hz.C2: rodados tehuelches cementados alternan con camadas de rodados y arenas)","true","","","5km al S de Lemarchand en ruta 3 hacia Río Gallegos","","","","-50.966667","-69.5","Llanura ondulada (cerrillada en la terraza alta)","Convexo","","seco fresco","","","","","","Perfil n° 605/37","","","Santa Cruz","","","","","","","","","","","","","","8.4","77","58","","franco arcilloso"
+"18828","45.2","","","8.6","","","","","","","","10.8","0.74","0.03","","12.45","10.9","8.7","5.35","3.1","2.25","","","45.15","","","","","","","","77-87","","","","","","","","","","blando","friable","adhesivo","ligeramente plástico","masiva","","","","C2","","17599","gradual","","","3890","605/37","","40.0","Rodados tehuelches","no modal","1959-02-25","Mata piedra, coirón, mata  negra","Drenaje: bueno
+Pedreg: superf 60%
+Aspecto: ondulado
+Erosión: natural
+Raíces: abundantes hasta los 15cm
+Permeab: buena
+Molinos en las lomadas (con agua, veget verde)
+Hz.A11: 80% rodados, maraña de raicillas
+Hz.A12: abundantes raicillas (menos que el anterior) 80% rodados de hasta 12cm
+Hz.B2: raíces gruesas, 40% rodados de hasta 12cm, muchos trocitos raicillas muertas y muchas clay skins, y algunos slickensides
+B3ca: rodados 60%, con clay skins (menos que el anterior), límite de raíces
+Hz.C1: 80-90% rodados (algo raíces)
+Hz.C2: rodados tehuelches cementados alternan con camadas de rodados y arenas)","true","","","5km al S de Lemarchand en ruta 3 hacia Río Gallegos","","","","-50.966667","-69.5","Llanura ondulada (cerrillada en la terraza alta)","Convexo","","seco fresco","","","","","","Perfil n° 605/37","","","Santa Cruz","","","","","","","","","","","","","","8.4","97","77","","franco arcillo limoso"

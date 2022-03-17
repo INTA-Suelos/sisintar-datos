@@ -1,0 +1,78 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"18771","24.1","35.9","54.1","5.7","","","","16.4","15.1","0.7","3.7","11.9","0.53","0.03","","16.65","37.75","18.65","9.7","3.4","1.05","","","0.0","","","","18.2","","","","0-4","","","","","","","10 YR 3/2","10 YR 4/2","","suelto","","no adhesivo","ligeramente plástico","","","","","A 11","","17264","gradual","","","3827","605/18","","","Sedimentos glaciales (en parte cubierto de arenas coluviales). Fluvio glaciales","no modal","1959-02-12","alverjilla, cebadilla (herbácea exclusivamente)","Sales o alc: no
+Pedregosidad: no se observa
+Aspecto: muy suavemente ondulado
+Raíces: abundantes hasta los 40cm (maraña)
+Hz. A11: muy esponjoso. 80% de reíces, escasa porción mineral, orugas
+Hz. A12: bastante esponjoso, más del 50% de raíces
+Hz. A3: alto % de raíces, termina la maraña de raíces
+Hz. B2: fragipan muy débil, pocos moteados rojos, muy poco denso, muchas raíces
+Hz. B3: muchos moteados rojizos, algo más pesado
+Hz. B g sesq: parece más verdoso con veteados rojizos (más que el anterior), con ceniza no meteorizada.
+Hz A1b: veteados rojizos","true","","","A 15km al W del Río Pico, Chubut","","","","-44.216667","-71.483333","Llano rodeado de morrenas frontales y laterales","Plano, microrelieve ondulado suavemente","","fresco húmedo","","nula","","","","Perfil n° 605/18","","","Chubut","","","","","","","","","","0 - 1%","","","","5.6","4","0","","arenoso"
+"18772","31.8","23.2","37.0","5.7","","","","12.8","8.3","0.9","1.2","14.15","0.37","0.01","","17.25","32.1","20.45","10.4","4.15","0.85","","","0.0","","","","13.8","","","","4-25","","","","","","","10 YR 3/2","10 YR 4/2","","suelto","","no adhesivo","ligeramente plástico","","","","","A12","","17265","claro","","","3827","605/18","","","Sedimentos glaciales (en parte cubierto de arenas coluviales). Fluvio glaciales","no modal","1959-02-12","alverjilla, cebadilla (herbácea exclusivamente)","Sales o alc: no
+Pedregosidad: no se observa
+Aspecto: muy suavemente ondulado
+Raíces: abundantes hasta los 40cm (maraña)
+Hz. A11: muy esponjoso. 80% de reíces, escasa porción mineral, orugas
+Hz. A12: bastante esponjoso, más del 50% de raíces
+Hz. A3: alto % de raíces, termina la maraña de raíces
+Hz. B2: fragipan muy débil, pocos moteados rojos, muy poco denso, muchas raíces
+Hz. B3: muchos moteados rojizos, algo más pesado
+Hz. B g sesq: parece más verdoso con veteados rojizos (más que el anterior), con ceniza no meteorizada.
+Hz A1b: veteados rojizos","true","","","A 15km al W del Río Pico, Chubut","","","","-44.216667","-71.483333","Llano rodeado de morrenas frontales y laterales","Plano, microrelieve ondulado suavemente","","fresco húmedo","","nula","","","","Perfil n° 605/18","","","Chubut","","","","","","","","","","0 - 1%","","","","5.6","25","4","","franco arenoso"
+"18773","27.85","23.4","33.8","5.8","","","","13.3","7.0","0.7","2.4","13.0","7.13","0.47","","16.15","36.45","14.9","11.25","4.85","1.1","","","0.0","","","","10.4","","","","25-41","","","","","","","10 YR 3/3","10 YR 4/3","","suelto","","no adhesivo","plástico","granular","","","","A13","","17266","gradual","","","3827","605/18","","","Sedimentos glaciales (en parte cubierto de arenas coluviales). Fluvio glaciales","no modal","1959-02-12","alverjilla, cebadilla (herbácea exclusivamente)","Sales o alc: no
+Pedregosidad: no se observa
+Aspecto: muy suavemente ondulado
+Raíces: abundantes hasta los 40cm (maraña)
+Hz. A11: muy esponjoso. 80% de reíces, escasa porción mineral, orugas
+Hz. A12: bastante esponjoso, más del 50% de raíces
+Hz. A3: alto % de raíces, termina la maraña de raíces
+Hz. B2: fragipan muy débil, pocos moteados rojos, muy poco denso, muchas raíces
+Hz. B3: muchos moteados rojizos, algo más pesado
+Hz. B g sesq: parece más verdoso con veteados rojizos (más que el anterior), con ceniza no meteorizada.
+Hz A1b: veteados rojizos","true","","","A 15km al W del Río Pico, Chubut","","","","-44.216667","-71.483333","Llano rodeado de morrenas frontales y laterales","Plano, microrelieve ondulado suavemente","","fresco húmedo","","nula","","","","Perfil n° 605/18","","","Chubut","","","","","","","","","","0 - 1%","","","","5.8","41","25","","franco arenoso"
+"18774","36.45","30.5","48.6","5.8","","","","16.2","11.9","1.3","1.1","16.05","4.28","","","22.9","29.1","13.65","7.25","2.85","0.8","","","0.0","","","","18.1","","","","41-80","","","","","","","10 YR 3/2","10 YR 3/3","","","friable","no adhesivo","plástico","masiva","","","","B2","","17268","gradual","","","3827","605/18","","","Sedimentos glaciales (en parte cubierto de arenas coluviales). Fluvio glaciales","no modal","1959-02-12","alverjilla, cebadilla (herbácea exclusivamente)","Sales o alc: no
+Pedregosidad: no se observa
+Aspecto: muy suavemente ondulado
+Raíces: abundantes hasta los 40cm (maraña)
+Hz. A11: muy esponjoso. 80% de reíces, escasa porción mineral, orugas
+Hz. A12: bastante esponjoso, más del 50% de raíces
+Hz. A3: alto % de raíces, termina la maraña de raíces
+Hz. B2: fragipan muy débil, pocos moteados rojos, muy poco denso, muchas raíces
+Hz. B3: muchos moteados rojizos, algo más pesado
+Hz. B g sesq: parece más verdoso con veteados rojizos (más que el anterior), con ceniza no meteorizada.
+Hz A1b: veteados rojizos","true","","","A 15km al W del Río Pico, Chubut","","","","-44.216667","-71.483333","Llano rodeado de morrenas frontales y laterales","Plano, microrelieve ondulado suavemente","","fresco húmedo","","nula","","","","Perfil n° 605/18","","","Chubut","","","","","","","","","","0 - 1%","","","","6.0","80","41","","franco arenoso"
+"18775","27.8","25.8","32.0","6.1","","","","15.4","7.8","0.8","1.8","11.55","2.76","","","21.5","29.55","18.35","11.45","2.85","0.0","","","0.0","","","","6.2","","","","80-95","","","","","","","7.5 YR 3/2","7.5 YR 4/2","","","friable","ligeramente adhesivo","plástico","masiva","","","","B3","","17269","claro","","","3827","605/18","","","Sedimentos glaciales (en parte cubierto de arenas coluviales). Fluvio glaciales","no modal","1959-02-12","alverjilla, cebadilla (herbácea exclusivamente)","Sales o alc: no
+Pedregosidad: no se observa
+Aspecto: muy suavemente ondulado
+Raíces: abundantes hasta los 40cm (maraña)
+Hz. A11: muy esponjoso. 80% de reíces, escasa porción mineral, orugas
+Hz. A12: bastante esponjoso, más del 50% de raíces
+Hz. A3: alto % de raíces, termina la maraña de raíces
+Hz. B2: fragipan muy débil, pocos moteados rojos, muy poco denso, muchas raíces
+Hz. B3: muchos moteados rojizos, algo más pesado
+Hz. B g sesq: parece más verdoso con veteados rojizos (más que el anterior), con ceniza no meteorizada.
+Hz A1b: veteados rojizos","true","","","A 15km al W del Río Pico, Chubut","","","","-44.216667","-71.483333","Llano rodeado de morrenas frontales y laterales","Plano, microrelieve ondulado suavemente","","fresco húmedo","","nula","","","","Perfil n° 605/18","","","Chubut","","","","","","","","","","0 - 1%","","","","6.0","95","80","","franco"
+"18776","17.85","19.7","21.7","6.3","","","","11.1","7.0","0.5","1.1","8.7","1.17","","","11.85","28.55","29.45","16.75","2.7","0.0","","","0.0","","","","2.0","","","","95-122","","","","","","","10 YR 3/3","2.5 YR 4/2","","","friable","ligeramente adhesivo","plástico","masiva","","","","B g sesq","","17271","abrupto","","","3827","605/18","","","Sedimentos glaciales (en parte cubierto de arenas coluviales). Fluvio glaciales","no modal","1959-02-12","alverjilla, cebadilla (herbácea exclusivamente)","Sales o alc: no
+Pedregosidad: no se observa
+Aspecto: muy suavemente ondulado
+Raíces: abundantes hasta los 40cm (maraña)
+Hz. A11: muy esponjoso. 80% de reíces, escasa porción mineral, orugas
+Hz. A12: bastante esponjoso, más del 50% de raíces
+Hz. A3: alto % de raíces, termina la maraña de raíces
+Hz. B2: fragipan muy débil, pocos moteados rojos, muy poco denso, muchas raíces
+Hz. B3: muchos moteados rojizos, algo más pesado
+Hz. B g sesq: parece más verdoso con veteados rojizos (más que el anterior), con ceniza no meteorizada.
+Hz A1b: veteados rojizos","true","","","A 15km al W del Río Pico, Chubut","","","","-44.216667","-71.483333","Llano rodeado de morrenas frontales y laterales","Plano, microrelieve ondulado suavemente","","fresco húmedo","","nula","","","","Perfil n° 605/18","","","Chubut","","","","","","","","","","0 - 1%","","","","","122","95","","franco"
+"18777","22.05","21.2","27.4","6.5","","","","13.7","6.1","0.9","0.5","12.4","2.0","","","18.05","27.75","16.9","16.05","2.4","1.45","","","0.0","","","","6.2","","","","122-132","","","","","","","10 YR 2/2","","","","friable","ligeramente adhesivo","plástico","masiva","","","","A1b","","17272","","","","3827","605/18","","","Sedimentos glaciales (en parte cubierto de arenas coluviales). Fluvio glaciales","no modal","1959-02-12","alverjilla, cebadilla (herbácea exclusivamente)","Sales o alc: no
+Pedregosidad: no se observa
+Aspecto: muy suavemente ondulado
+Raíces: abundantes hasta los 40cm (maraña)
+Hz. A11: muy esponjoso. 80% de reíces, escasa porción mineral, orugas
+Hz. A12: bastante esponjoso, más del 50% de raíces
+Hz. A3: alto % de raíces, termina la maraña de raíces
+Hz. B2: fragipan muy débil, pocos moteados rojos, muy poco denso, muchas raíces
+Hz. B3: muchos moteados rojizos, algo más pesado
+Hz. B g sesq: parece más verdoso con veteados rojizos (más que el anterior), con ceniza no meteorizada.
+Hz A1b: veteados rojizos","true","","","A 15km al W del Río Pico, Chubut","","","","-44.216667","-71.483333","Llano rodeado de morrenas frontales y laterales","Plano, microrelieve ondulado suavemente","","fresco húmedo","","nula","","","","Perfil n° 605/18","","","Chubut","","","","","","","","","","0 - 1%","","","","6.2","132","122","","arcillo arenoso"

@@ -1,0 +1,31 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","10 YR 4/2","10 YR 6/2.5","","suelto","","","","","","","","CA11","","17377","difuso","","","3849","605/29","","","Basalto (afloramientos y pavimentos angulosos)","no modal","1959-02-18","Mata mora, mata guanaco, coirón, mata negra, azorella","Drenaje: bueno
+Sales: no
+Pedregosidad: 30-40%
+Aspecto: suavemente ondulado
+Suavemente ondulado
+Erosión: natural
+Raíces: no se observa en el perfil
+Hz.CA12: gravilla fina (casi arena) tendiente a fragipan, poroso por las raíces. En su base: raicillas
+Hz.CA13: basaltos (con material meteorizado en un 5% como max), zona de raicillas (muertas bastantes)
+El hz 2-5cm por cambiar mucho de color seco a húmedo indica tener MO, debe ser un A","true","","","Entre Estancia las Barrancas y ruta 277, a 10km de la Estancia al W","","","","-47.783333","-68.55","Pampa alta","Plano convexo","","seco","","","","","","Perfil n° 605/29","","","Santa Cruz","","","","","","","","","","","","","","","2","0","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""," 10 YR 3/3","10 YR 6/3","","","friable","muy adhesivo","plástico","laminar","","","","CA12","","17378","claro","","","3849","605/29","","","Basalto (afloramientos y pavimentos angulosos)","no modal","1959-02-18","Mata mora, mata guanaco, coirón, mata negra, azorella","Drenaje: bueno
+Sales: no
+Pedregosidad: 30-40%
+Aspecto: suavemente ondulado
+Suavemente ondulado
+Erosión: natural
+Raíces: no se observa en el perfil
+Hz.CA12: gravilla fina (casi arena) tendiente a fragipan, poroso por las raíces. En su base: raicillas
+Hz.CA13: basaltos (con material meteorizado en un 5% como max), zona de raicillas (muertas bastantes)
+El hz 2-5cm por cambiar mucho de color seco a húmedo indica tener MO, debe ser un A","true","","","Entre Estancia las Barrancas y ruta 277, a 10km de la Estancia al W","","","","-47.783333","-68.55","Pampa alta","Plano convexo","","seco","","","","","","Perfil n° 605/29","","","Santa Cruz","","","","","","","","","","","","","","6.0","5","2","","franco"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","10 YR 4/3","5 YR 3/3","","","","adhesivo","plástico","","","","","CA13","","17379","","","","3849","605/29","","","Basalto (afloramientos y pavimentos angulosos)","no modal","1959-02-18","Mata mora, mata guanaco, coirón, mata negra, azorella","Drenaje: bueno
+Sales: no
+Pedregosidad: 30-40%
+Aspecto: suavemente ondulado
+Suavemente ondulado
+Erosión: natural
+Raíces: no se observa en el perfil
+Hz.CA12: gravilla fina (casi arena) tendiente a fragipan, poroso por las raíces. En su base: raicillas
+Hz.CA13: basaltos (con material meteorizado en un 5% como max), zona de raicillas (muertas bastantes)
+El hz 2-5cm por cambiar mucho de color seco a húmedo indica tener MO, debe ser un A","true","","","Entre Estancia las Barrancas y ruta 277, a 10km de la Estancia al W","","","","-47.783333","-68.55","Pampa alta","Plano convexo","","seco","","","","","","Perfil n° 605/29","","","Santa Cruz","","","","","","","","","","","","","","6.2","12","5","","franco arcilloso"

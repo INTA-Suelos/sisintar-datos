@@ -1,0 +1,79 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"18857","49.75","76.2","90.7","4.6","","","","47.9","21.3","1.2","5.8","10.75","15.73","0.76","","24.5","25.2","9.25","2.45","0.75","0.0","","","0.0","","","","14.5","","","","0-14","","","","","","","10 YR 2/2","10 YR 3/2","","","","no adhesivo","ligeramente plástico","","","","","Ah11","","17638","claro","","","3899","605/44","","","","no modal","1959-03-01","bosque de lengas, tapiz herbáceo","Drenaje: bueno a impedido
+Pedreg:: superficial no, en el perfil: escasa
+Aspecto: fuertemente ondul a escarpado
+Permeab: buena
+Erosión: natural
+Raíces: abundantes hasta los 45cm
+En los alrededores se tompo foto del ambiente, A2 no definido
+Hz.Ah11: maraña de raíces
+Hz.A12: muchas raíces
+Hz.A13: muchas raíces (menos que arriba)
+Hz.BA: algunos moteados, clay skins. Incluye rodaditos de hasta 2cm (algunos angulosos), numerosos los muy pequeños
+Hz.Bses.q: Incluye rodados 10% de hasta 4cm y algunos color reticulado en matriz verdosa
+Hz.BC: matriz verdosa con moteados rojizos, reticular y manchas negras","true","","","Aprox 5km al N de La Dorotea (entre La Dorotea y La Primavera).","","","","-51.466667","-72.233333","Faldeo de morrena en la Sierra Dorotea","Inclinado convexo-cóncavo","","fresco húmedo","","","","","","Perfil n° 605/44","","","Santa Cruz","","","","","","","","","","25 - 45%","","","","5.8","14","0","","franco"
+"18858","33.45","37.2","51.7","3.9","","","","15.4","15.6","2.8","3.4","27.7","2.37","0.21","","19.6","32.55","11.25","3.1","1.7","0.0","","","0.0","","","","14.5","","","","14-30","","","","","","","10 YR 3/2","10 YR 3/3","","","friable","no adhesivo","ligeramente plástico","granular","medios","débil","","A12","","17639","gradual","","","3899","605/44","","","","no modal","1959-03-01","bosque de lengas, tapiz herbáceo","Drenaje: bueno a impedido
+Pedreg:: superficial no, en el perfil: escasa
+Aspecto: fuertemente ondul a escarpado
+Permeab: buena
+Erosión: natural
+Raíces: abundantes hasta los 45cm
+En los alrededores se tompo foto del ambiente, A2 no definido
+Hz.Ah11: maraña de raíces
+Hz.A12: muchas raíces
+Hz.A13: muchas raíces (menos que arriba)
+Hz.BA: algunos moteados, clay skins. Incluye rodaditos de hasta 2cm (algunos angulosos), numerosos los muy pequeños
+Hz.Bses.q: Incluye rodados 10% de hasta 4cm y algunos color reticulado en matriz verdosa
+Hz.BC: matriz verdosa con moteados rojizos, reticular y manchas negras","true","","","Aprox 5km al N de La Dorotea (entre La Dorotea y La Primavera).","","","","-51.466667","-72.233333","Faldeo de morrena en la Sierra Dorotea","Inclinado convexo-cóncavo","","fresco húmedo","","","","","","Perfil n° 605/44","","","Santa Cruz","","","","","","","","","","25 - 45%","","","","5.4","30","14","","franco arenoso"
+"18859","22.35","29.2","43.7","3.9","","","","11.0","13.6","1.6","3.0","23.35","1.94","0.1","","18.95","36.15","12.1","4.0","2.1","0.0","","","0.0","","","","14.5","","","","30-60","","","","","","","10 YR 4/4","10 YR 4/4","","","friable","ligeramente adhesivo","plástico","masiva","","","","A13","","17640","difuso","","","3899","605/44","","","","no modal","1959-03-01","bosque de lengas, tapiz herbáceo","Drenaje: bueno a impedido
+Pedreg:: superficial no, en el perfil: escasa
+Aspecto: fuertemente ondul a escarpado
+Permeab: buena
+Erosión: natural
+Raíces: abundantes hasta los 45cm
+En los alrededores se tompo foto del ambiente, A2 no definido
+Hz.Ah11: maraña de raíces
+Hz.A12: muchas raíces
+Hz.A13: muchas raíces (menos que arriba)
+Hz.BA: algunos moteados, clay skins. Incluye rodaditos de hasta 2cm (algunos angulosos), numerosos los muy pequeños
+Hz.Bses.q: Incluye rodados 10% de hasta 4cm y algunos color reticulado en matriz verdosa
+Hz.BC: matriz verdosa con moteados rojizos, reticular y manchas negras","true","","","Aprox 5km al N de La Dorotea (entre La Dorotea y La Primavera).","","","","-51.466667","-72.233333","Faldeo de morrena en la Sierra Dorotea","Inclinado convexo-cóncavo","","fresco húmedo","","","","","","Perfil n° 605/44","","","Santa Cruz","","","","","","","","","","25 - 45%","","","","5.4","60","30","","franco"
+"18860","18.9","23.0","34.0","4.0","","","","11.0","8.7","1.6","1.7","22.9","0.79","0.09","","17.65","33.85","14.65","5.6","3.05","0.95","","","","","","","11.0","","","","60-86","","","","","","","10 YR 4/4","10 YR 4/4","","","friable","adhesivo","plástico","masiva","","","","BA ó Bpodsol","","17641","gradual","","","3899","605/44","","","","no modal","1959-03-01","bosque de lengas, tapiz herbáceo","Drenaje: bueno a impedido
+Pedreg:: superficial no, en el perfil: escasa
+Aspecto: fuertemente ondul a escarpado
+Permeab: buena
+Erosión: natural
+Raíces: abundantes hasta los 45cm
+En los alrededores se tompo foto del ambiente, A2 no definido
+Hz.Ah11: maraña de raíces
+Hz.A12: muchas raíces
+Hz.A13: muchas raíces (menos que arriba)
+Hz.BA: algunos moteados, clay skins. Incluye rodaditos de hasta 2cm (algunos angulosos), numerosos los muy pequeños
+Hz.Bses.q: Incluye rodados 10% de hasta 4cm y algunos color reticulado en matriz verdosa
+Hz.BC: matriz verdosa con moteados rojizos, reticular y manchas negras","true","","","Aprox 5km al N de La Dorotea (entre La Dorotea y La Primavera).","","","","-51.466667","-72.233333","Faldeo de morrena en la Sierra Dorotea","Inclinado convexo-cóncavo","","fresco húmedo","","","","","","Perfil n° 605/44","","","Santa Cruz","","","","","","","","","","25 - 45%","","","","5.4","86","60","","franco arcilloso"
+"18861","20.6","29.0","36.0","5.0","","","","16.9","9.6","1.0","1.5","25.45","0.45","0.04","","10.8","19.8","21.9","10.4","7.65","3.65","","","","","","","7.0","","","","86-100","","","","","","","10 YR 5/3","2.5 YR 5/4","","blando","","adhesivo","plástico","masiva","","","","Bsesq.g","","17642","difuso","","","3899","605/44","","","","no modal","1959-03-01","bosque de lengas, tapiz herbáceo","Drenaje: bueno a impedido
+Pedreg:: superficial no, en el perfil: escasa
+Aspecto: fuertemente ondul a escarpado
+Permeab: buena
+Erosión: natural
+Raíces: abundantes hasta los 45cm
+En los alrededores se tompo foto del ambiente, A2 no definido
+Hz.Ah11: maraña de raíces
+Hz.A12: muchas raíces
+Hz.A13: muchas raíces (menos que arriba)
+Hz.BA: algunos moteados, clay skins. Incluye rodaditos de hasta 2cm (algunos angulosos), numerosos los muy pequeños
+Hz.Bses.q: Incluye rodados 10% de hasta 4cm y algunos color reticulado en matriz verdosa
+Hz.BC: matriz verdosa con moteados rojizos, reticular y manchas negras","true","","","Aprox 5km al N de La Dorotea (entre La Dorotea y La Primavera).","","","","-51.466667","-72.233333","Faldeo de morrena en la Sierra Dorotea","Inclinado convexo-cóncavo","","fresco húmedo","","","","","","Perfil n° 605/44","","","Santa Cruz","","","","","","","","","","25 - 45%","","","","5.2","100","86","","franco arcilloso"
+"18862","20.8","27.9","34.1","4.9","","","","17.2","9.3","0.7","0.7","21.25","","","","7.0","34.8","21.0","9.05","5.0","1.9","","","","","","","6.2","","","","100-116","","","","","","","","2.5 Y 5/2","","blando","","adhesivo","plástico","masiva","","","","BG","","17643","","","","3899","605/44","","","","no modal","1959-03-01","bosque de lengas, tapiz herbáceo","Drenaje: bueno a impedido
+Pedreg:: superficial no, en el perfil: escasa
+Aspecto: fuertemente ondul a escarpado
+Permeab: buena
+Erosión: natural
+Raíces: abundantes hasta los 45cm
+En los alrededores se tompo foto del ambiente, A2 no definido
+Hz.Ah11: maraña de raíces
+Hz.A12: muchas raíces
+Hz.A13: muchas raíces (menos que arriba)
+Hz.BA: algunos moteados, clay skins. Incluye rodaditos de hasta 2cm (algunos angulosos), numerosos los muy pequeños
+Hz.Bses.q: Incluye rodados 10% de hasta 4cm y algunos color reticulado en matriz verdosa
+Hz.BC: matriz verdosa con moteados rojizos, reticular y manchas negras","true","","","Aprox 5km al N de La Dorotea (entre La Dorotea y La Primavera).","","","","-51.466667","-72.233333","Faldeo de morrena en la Sierra Dorotea","Inclinado convexo-cóncavo","","fresco húmedo","","","","","","Perfil n° 605/44","","","Santa Cruz","","","","","","","","","","25 - 45%","","","","5.0","116","100","","franco arcilloso"

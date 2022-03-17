@@ -1,0 +1,29 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"25123","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","0-25","","","","","","","10YR 2/2","","","","friable","ligeramente adhesivo","ligeramente plástico","bloques subangulares","medios","moderado","","A1","fresco","4268","abrupto","suave","","1128","25/224 C","","","Sedimentos loéssicos","no modal","1981-04-01","Pastura (Phalaris sp.), Gramilla.","Serie: Junín ? San Horacio ?
+
+Buen desarrollo del sistema radicular en todo el perfil.
+
+El perfil no tiene pasados los datos analíticos.
+
+Napa: > 150 cm.","true","","I","Ea. El Puntal. A 6.2 km al N de Morse.","I-R 348","3560-14-1","70","-34.704201","-60.839524","Pampa arenosa","loma medanosa","","fresco","uniforme","nula","","","grado 0","Junín","Ju","","Buenos Aires","","Hapludol típico","","","clase 0","ganadero","normal","moderada","medio","0 - 1%","clase 5","clase 4","loma","6.5","25","0","3","franco"
+"25124","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","25-53","","","","","Clsk ++","","7.5YR 3/2","","","","friable","ligeramente adhesivo","ligeramente plástico","prismas simples regulares","muy gruesos","moderado","","B2","fresco","4237","claro","suave","","1128","25/224 C","","","Sedimentos loéssicos","no modal","1981-04-01","Pastura (Phalaris sp.), Gramilla.","Serie: Junín ? San Horacio ?
+
+Buen desarrollo del sistema radicular en todo el perfil.
+
+El perfil no tiene pasados los datos analíticos.
+
+Napa: > 150 cm.","true","","I","Ea. El Puntal. A 6.2 km al N de Morse.","I-R 348","3560-14-1","70","-34.704201","-60.839524","Pampa arenosa","loma medanosa","","fresco","uniforme","nula","","","grado 0","Junín","Ju","","Buenos Aires","","Hapludol típico","","","clase 0","ganadero","normal","moderada","medio","0 - 1%","clase 5","clase 4","loma","6.5","53","25","2","franco"
+"25125","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","53-104","","","","","Clsk +","","7.5YR 4/4","","","","friable","no adhesivo","no plástico","bloques subangulares","gruesos","moderado","","B3","fresco","4246","claro","suave","","1128","25/224 C","","","Sedimentos loéssicos","no modal","1981-04-01","Pastura (Phalaris sp.), Gramilla.","Serie: Junín ? San Horacio ?
+
+Buen desarrollo del sistema radicular en todo el perfil.
+
+El perfil no tiene pasados los datos analíticos.
+
+Napa: > 150 cm.","true","","I","Ea. El Puntal. A 6.2 km al N de Morse.","I-R 348","3560-14-1","70","-34.704201","-60.839524","Pampa arenosa","loma medanosa","","fresco","uniforme","nula","","","grado 0","Junín","Ju","","Buenos Aires","","Hapludol típico","","","clase 0","ganadero","normal","moderada","medio","0 - 1%","clase 5","clase 4","loma","7.0","104","53","2","franco arenoso"
+"25126","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","104-120","","","","","","","7.5YR 4/4","","","","muy friable","no adhesivo","no plástico","bloques subangulares","gruesos","débil","","C","fresco","4271","","","","1128","25/224 C","","","Sedimentos loéssicos","no modal","1981-04-01","Pastura (Phalaris sp.), Gramilla.","Serie: Junín ? San Horacio ?
+
+Buen desarrollo del sistema radicular en todo el perfil.
+
+El perfil no tiene pasados los datos analíticos.
+
+Napa: > 150 cm.","true","","I","Ea. El Puntal. A 6.2 km al N de Morse.","I-R 348","3560-14-1","70","-34.704201","-60.839524","Pampa arenosa","loma medanosa","","fresco","uniforme","nula","","","grado 0","Junín","Ju","","Buenos Aires","","Hapludol típico","","","clase 0","ganadero","normal","moderada","medio","0 - 1%","clase 5","clase 4","loma","7.5","120","104","1","franco arenoso"

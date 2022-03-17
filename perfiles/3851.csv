@@ -1,0 +1,61 @@
+"analitico_registro","analitico_humedad","analitico_s","analitico_t","analitico_ph_pasta","analitico_ph_h2o","analitico_ph_kcl","analitico_resistencia_pasta","analitico_base_ca","analitico_base_mg","analitico_base_k","analitico_base_na","analitico_arcilla","analitico_carbono_organico_c","analitico_carbono_organico_n","analitico_limo_2_20","analitico_limo_2_50","analitico_arena_muy_fina","analitico_arena_fina","analitico_arena_media","analitico_arena_gruesa","analitico_arena_muy_gruesa","analitico_arena_total","analitico_gravas","analitico_ca_co3","analitico_agua_15_atm","analitico_agua_util","analitico_conductividad","analitico_h","analitico_saturacion_t","analitico_saturacion_s_h","analitico_densidad_aparente","analitico_profundidad_muestra","analitico_agua_3_atm","analitico_carbono_organico_cn","analitico_base_al","analitico_p_ppm","barnices","co3","color_humedo_hvc","color_seco_hvc","concreciones","consistencia_en_seco","consistencia_en_humedo","consistencia_adhesividad","consistencia_plasticidad","estructura_tipo","estructura_clase","estructura_grado","formaciones_especiales","horizonte","humedad","id","limite_tipo","limite_forma","moteados","perfil_id","perfil_numero","perfil_profundidad_napa","perfil_cobertura_vegetal","perfil_material_original","perfil_modal","perfil_fecha","perfil_vegetacion_o_cultivos","perfil_observaciones","perfil_publico","perfil_capacidad_subclases","perfil_capacidad_clase","perfil_ubicacion_descripcion","perfil_ubicacion_recorrido","perfil_ubicacion_mosaico","perfil_ubicacion_aerofoto","perfil_ubicacion_latitud","perfil_ubicacion_longitud","perfil_paisaje_tipo","perfil_paisaje_forma","perfil_paisaje_simbolo","perfil_humedad_subclases","perfil_humedad_clase","perfil_erosion_clase","perfil_erosion_subclase","perfil_pedregosidad_clase","perfil_pedregosidad_subclase","perfil_serie_nombre","perfil_serie_simbolo","perfil_serie_descripcion","perfil_serie_provincia","perfil_grupo_codigo","perfil_grupo_descripcion","perfil_fase_codigo","perfil_fase_nombre","perfil_sales","perfil_uso_de_la_tierra","perfil_relieve","perfil_permeabilidad","perfil_escurrimiento","perfil_pendiente","perfil_anegamiento","perfil_drenaje","perfil_posicion","ph","profundidad_inferior","profundidad_superior","raices","textura"
+"18796","6.5","","","7.2","","","","","","","","5.55","0.95","","","2.55","18.2","23.75","39.8","7.4","1.8","","","","","","","","","","","0-4","","","","","","","10 YR 4/2","10 YR 5/3","","suelto","","no adhesivo","no plástico","","","","","A11","","17380","claro","","","3851","605/30","","70.0","Rodado tehuelche","no modal","1959-02-18","Coirón, mata guanaco, mata piedra, etc","Drenaje: bueno
+Sales: no
+Pedregosidad: superficial casi nula. Interna: abundante rodado de hasta 15cm
+Aspecto: llano a muy suavemente ondulado
+Hz.A11: algo de rodado 10%, forma microrrelieve de erosión eólica
+Hz.A12: fragipan, muchas raíces
+Hz.AB: rodados 40%, raíces abundantes (límite mayor parte de raíces)
+Hz. Bt2: vestigios de clay skins, muchos rodados 80%
+Hz.BC: mas del 90% de rodados, material adherido a los rodados
+Hz.C: sigue para abajo igual, 90% de rodados hasta 10. Raíces","true","","","Km 383 ruta 277, entre La maría y Bajo Caracoles (a unos 20 km de Bajo Caracoles al E)","","","","-47.4","-70.2","Pampa alta (meseta alta, en tramo recto de E a W del camino)","Plano","","seco fresco","","moderada","eólica","","","Perfil n° 605/30","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","7.0","4","0","","arenoso"
+"18797","10.7","","","7.0","","","","","","","","8.65","2.2","","","6.65","28.9","22.9","20.35","8.1","2.25","","","","","","","","","","","4-10","","","","","","","10 YR 3/3","10 YR 4/3","","","","no adhesivo","ligeramente plástico","","","débil","","A12","","17381","claro","","","3851","605/30","","70.0","Rodado tehuelche","no modal","1959-02-18","Coirón, mata guanaco, mata piedra, etc","Drenaje: bueno
+Sales: no
+Pedregosidad: superficial casi nula. Interna: abundante rodado de hasta 15cm
+Aspecto: llano a muy suavemente ondulado
+Hz.A11: algo de rodado 10%, forma microrrelieve de erosión eólica
+Hz.A12: fragipan, muchas raíces
+Hz.AB: rodados 40%, raíces abundantes (límite mayor parte de raíces)
+Hz. Bt2: vestigios de clay skins, muchos rodados 80%
+Hz.BC: mas del 90% de rodados, material adherido a los rodados
+Hz.C: sigue para abajo igual, 90% de rodados hasta 10. Raíces","true","","","Km 383 ruta 277, entre La maría y Bajo Caracoles (a unos 20 km de Bajo Caracoles al E)","","","","-47.4","-70.2","Pampa alta (meseta alta, en tramo recto de E a W del camino)","Plano","","seco fresco","","moderada","eólica","","","Perfil n° 605/30","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","7.0","10","4","","areno franco"
+"18798","12.9","","","7.0","","","","","","","","11.0","2.4","","","6.8","23.85","19.85","22.9","10.15","3.25","","","","","","","","","","","10-18","","","","","",""," 10 YR 3/3","10 YR 3/4","","","","","","","","","","AB","","17382","gradual","","","3851","605/30","","70.0","Rodado tehuelche","no modal","1959-02-18","Coirón, mata guanaco, mata piedra, etc","Drenaje: bueno
+Sales: no
+Pedregosidad: superficial casi nula. Interna: abundante rodado de hasta 15cm
+Aspecto: llano a muy suavemente ondulado
+Hz.A11: algo de rodado 10%, forma microrrelieve de erosión eólica
+Hz.A12: fragipan, muchas raíces
+Hz.AB: rodados 40%, raíces abundantes (límite mayor parte de raíces)
+Hz. Bt2: vestigios de clay skins, muchos rodados 80%
+Hz.BC: mas del 90% de rodados, material adherido a los rodados
+Hz.C: sigue para abajo igual, 90% de rodados hasta 10. Raíces","true","","","Km 383 ruta 277, entre La maría y Bajo Caracoles (a unos 20 km de Bajo Caracoles al E)","","","","-47.4","-70.2","Pampa alta (meseta alta, en tramo recto de E a W del camino)","Plano","","seco fresco","","moderada","eólica","","","Perfil n° 605/30","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","7.0","18","10","",""
+"18799","28.6","","","7.0","","","","","","","","26.9","2.35","","","7.3","15.1","14.95","16.25","10.7","5.75","","","","","","","","","","","18-27","","","","","","","10 YR 4/3","5 YR 4/3","","","friable","adhesivo","plástico","bloques subangulares","finos","débil","","Bt2","","17383","gradual","","","3851","605/30","","70.0","Rodado tehuelche","no modal","1959-02-18","Coirón, mata guanaco, mata piedra, etc","Drenaje: bueno
+Sales: no
+Pedregosidad: superficial casi nula. Interna: abundante rodado de hasta 15cm
+Aspecto: llano a muy suavemente ondulado
+Hz.A11: algo de rodado 10%, forma microrrelieve de erosión eólica
+Hz.A12: fragipan, muchas raíces
+Hz.AB: rodados 40%, raíces abundantes (límite mayor parte de raíces)
+Hz. Bt2: vestigios de clay skins, muchos rodados 80%
+Hz.BC: mas del 90% de rodados, material adherido a los rodados
+Hz.C: sigue para abajo igual, 90% de rodados hasta 10. Raíces","true","","","Km 383 ruta 277, entre La maría y Bajo Caracoles (a unos 20 km de Bajo Caracoles al E)","","","","-47.4","-70.2","Pampa alta (meseta alta, en tramo recto de E a W del camino)","Plano","","seco fresco","","moderada","eólica","","","Perfil n° 605/30","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","7.6","27","18","","franco arcilloso"
+"18800","","","","","","","","","","","","","","","","","","","","","","","","3.0","","","","","","","","27-34","","","","","","","7.5 YR 4/2","7.5 YR 5/4","","","","adhesivo","plástico","masiva","","","","BC","","17384","claro","","","3851","605/30","","70.0","Rodado tehuelche","no modal","1959-02-18","Coirón, mata guanaco, mata piedra, etc","Drenaje: bueno
+Sales: no
+Pedregosidad: superficial casi nula. Interna: abundante rodado de hasta 15cm
+Aspecto: llano a muy suavemente ondulado
+Hz.A11: algo de rodado 10%, forma microrrelieve de erosión eólica
+Hz.A12: fragipan, muchas raíces
+Hz.AB: rodados 40%, raíces abundantes (límite mayor parte de raíces)
+Hz. Bt2: vestigios de clay skins, muchos rodados 80%
+Hz.BC: mas del 90% de rodados, material adherido a los rodados
+Hz.C: sigue para abajo igual, 90% de rodados hasta 10. Raíces","true","","","Km 383 ruta 277, entre La maría y Bajo Caracoles (a unos 20 km de Bajo Caracoles al E)","","","","-47.4","-70.2","Pampa alta (meseta alta, en tramo recto de E a W del camino)","Plano","","seco fresco","","moderada","eólica","","","Perfil n° 605/30","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","8.0","34","27","","franco arcillo limoso"
+"18801","","","","8.2","","","","","","","","14.6","","","","5.5","15.95","11.7","16.1","7.05","2.6","","","26.5","","","","","","","","34-37","","","","","","","","10 YR 8/1","","blando","","adhesivo","plástico","masiva","","","","C","","17385","claro","","","3851","605/30","","70.0","Rodado tehuelche","no modal","1959-02-18","Coirón, mata guanaco, mata piedra, etc","Drenaje: bueno
+Sales: no
+Pedregosidad: superficial casi nula. Interna: abundante rodado de hasta 15cm
+Aspecto: llano a muy suavemente ondulado
+Hz.A11: algo de rodado 10%, forma microrrelieve de erosión eólica
+Hz.A12: fragipan, muchas raíces
+Hz.AB: rodados 40%, raíces abundantes (límite mayor parte de raíces)
+Hz. Bt2: vestigios de clay skins, muchos rodados 80%
+Hz.BC: mas del 90% de rodados, material adherido a los rodados
+Hz.C: sigue para abajo igual, 90% de rodados hasta 10. Raíces","true","","","Km 383 ruta 277, entre La maría y Bajo Caracoles (a unos 20 km de Bajo Caracoles al E)","","","","-47.4","-70.2","Pampa alta (meseta alta, en tramo recto de E a W del camino)","Plano","","seco fresco","","moderada","eólica","","","Perfil n° 605/30","","","Santa Cruz","","","","","","","","","","0 - 1%","","","","8.2","47","34","","franco arcillo limoso"
